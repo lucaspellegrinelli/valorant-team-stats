@@ -2,7 +2,6 @@ import pandas as pd
 import numpy as np
 
 df = pd.read_csv("data/player-data.csv")
-df = df[df["episode"] == 3]
 
 df["season"] = 3 * df["episode"] + df["act"]
 df["matches"] = df["wins"] + df["losses"]
