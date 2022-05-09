@@ -1,14 +1,18 @@
-import sys
+import argparse
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 import scipy.stats as stats
 plt.style.use("seaborn-dark")
 
+parser = argparse.ArgumentParser()
+parser.add_argument("-p", "--player", required=False)
+args = parser.parse_args()
+
 df = pd.read_csv("data/player-data.csv")
 
-if len(sys.argv) > 1:
-    df = df[df["player"] == sys.argv[1]]
+if args.player:
+    df = df[df["player"] == args.player]
 
 df["season"] = 3 * df["episode"] + df["act"]
 df["matches"] = df["wins"] + df["losses"]
@@ -32,5 +36,5 @@ plt.xlabel("P(X) where X = us winning the map")
 plt.legend()
 figure.set_size_inches(8, 4)
 plt.tight_layout()
-# plt.show()
-plt.savefig("plots/map-binomial.png")
+plt.show()
+# plt.savefig("plots/map-binomial.png")
