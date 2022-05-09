@@ -22,15 +22,17 @@ df["season"] = 3 * df["episode"] + df["act"]
 df["winrate"] = (df["rounds_won"] > df["rounds_lost"]).astype(int)
 df["matches"] = 1
 
-group_by_items = [args.x]
-if args.player:
-    group_by_items.append("player")
-
+group_by_items = list(set([args.x, "player"]))
 gb = df.groupby(group_by_items)
 gb = getattr(gb, args.metric)().reset_index()
 
-gb = gb.sort_values(args.y, ascending=False)
-gb.plot.bar(x=args.x, y=args.y, rot=0)
+fig = plt.figure(figsize=(8, 6))
+ax = plt.subplot(111)
+
+if args.x == "player":
+    gb.plot.bar(x=args.x, y=args.y, rot=0, ax=ax)
+else:
+    gb.pivot(index=args.x, columns="player", values=args.y).plot(kind="bar", ax=ax, rot=0)
 
 plt.axhline(y=df[args.y].mean(), color="r", linestyle="-")
 
