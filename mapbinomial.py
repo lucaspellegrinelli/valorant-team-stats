@@ -1,3 +1,4 @@
+import sys
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
@@ -5,7 +6,9 @@ import scipy.stats as stats
 plt.style.use("seaborn-dark")
 
 df = pd.read_csv("data/player-data.csv")
-df = df[df["player"] == "Pelle"]
+
+if len(sys.argv) > 1:
+    df = df[df["player"] == sys.argv[1]]
 
 df["season"] = 3 * df["episode"] + df["act"]
 df["matches"] = df["wins"] + df["losses"]
