@@ -19,15 +19,18 @@ class PageScraper:
         driver.get(f"https://blitz.gg/valorant/profile/{acc_name}-{acc_tag}?actName=e{episode}act{act}&queue={queue}")
 
         for _ in range(self.load_wait):
-            for _ in range(10):
-                time.sleep(0.1)
-                try:
-                    elem = driver.find_element_by_tag_name("footer")
-                    driver.execute_script("arguments[0].scrollIntoView(true);", elem)
-                except:
-                    continue
+            time.sleep(1)
+            try:
+                elem = driver.find_element_by_tag_name("footer")
+                driver.execute_script("arguments[0].scrollIntoView(true);", elem)
+            except:
+                continue
 
-        matches = driver.find_element(by=By.XPATH, value=PageScraper.MATCHES_XPATH)
+        try:
+            matches = driver.find_element(by=By.XPATH, value=PageScraper.MATCHES_XPATH)
+        except:
+            return []
+
         match_data = matches.text.split("\n")[:-3]
 
         match_infos = []
