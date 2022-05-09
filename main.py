@@ -14,7 +14,7 @@ accounts = [
     ("Hugo", "Desculp ser Omen#0001")
 ]
 
-scraper = PageScraper(load_wait=10)
+scraper = PageScraper(load_wait=15)
 
 for player, account in accounts:
     for episode in [3, 4]:

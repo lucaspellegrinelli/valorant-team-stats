@@ -12,7 +12,7 @@ class MatchInfo:
         self.episode = episode
         self.act = act
 
-        self.mapname = mapname
+        self.mapname = mapname.lower()
         self.agent = ""
 
         score_parts = score.split(" - ")
@@ -27,10 +27,10 @@ class MatchInfo:
         self.kpr = float(kpr.split(" KPR")[0])
         self.adr = float(adr.split(" ADR")[0])
         self.hs = float(hs.split("% HS")[0]) / 100
-        self.avgscore = float(avgscore.split(" Avg. Score")[0])
+        self.acs = float(avgscore.split(" Avg. Score")[0])
 
     def set_agent(self, agent):
-        self.agent = agent
+        self.agent = agent.lower()
 
     def process_rr(self, rr):
         number = rr.split(" RR")[0]
