@@ -24,7 +24,12 @@ for player, account in accounts:
             acc_tag = account.split("#")[1]
             df_content = [s.__dict__ for s in scraper.scrap(player, acc_name, acc_tag, episode, act)]
             print(f"{len(df_content)} matches found")
+
             this_df = pd.DataFrame(df_content)
-            load_df = pd.read_csv("player-data.csv")
-            load_df = pd.concat([load_df, this_df], axis=0)
-            load_df.to_csv("player-data.csv", index=False)
+
+            try:
+                load_df = pd.read_csv("player-data.csv")
+                load_df = pd.concat([load_df, this_df], axis=0)
+                load_df.to_csv("player-data.csv", index=False)
+            except:
+                this_df.to_csv("player-data.csv", index=False)

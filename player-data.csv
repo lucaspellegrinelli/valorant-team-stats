@@ -1,0 +1,1150 @@
+player,account,episode,act,mapname,agent,rounds_won,rounds_lost,kills,deaths,assists,kpr,adr,hs,acs
+Pelle,pll#moc,3,1,haven,omen,11,13,14,18,8,0.6,163.0,0.188,182.0
+Pelle,pll#moc,3,1,split,sage,12,14,23,20,10,0.9,173.0,0.153,273.0
+Pelle,pll#moc,3,1,split,skye,4,13,12,14,1,0.7,132.0,0.158,213.0
+Pelle,pll#moc,3,1,split,omen,13,9,12,15,5,0.5,101.0,0.128,156.0
+Pelle,pll#moc,3,1,haven,sova,12,14,17,19,8,0.7,114.0,0.162,187.0
+Pelle,pll#moc,3,1,icebox,sage,13,15,13,18,8,0.5,132.0,0.1,146.0
+Pelle,pll#moc,3,1,icebox,sage,15,13,18,21,13,0.6,89.0,0.092,167.0
+Pelle,pll#moc,3,1,split,sage,5,13,8,18,8,0.4,111.0,0.122,174.0
+Pelle,pll#moc,3,1,bind,sage,13,10,14,16,6,0.6,116.0,0.121,161.0
+Pelle,pll#moc,3,1,bind,sage,14,12,17,15,5,0.7,99.0,0.17,177.0
+Pelle,pll#moc,3,1,icebox,sage,7,13,8,16,1,0.4,73.0,0.172,118.0
+Pelle,pll#moc,3,1,haven,sage,13,10,14,16,8,0.6,120.0,0.123,171.0
+Pelle,pll#moc,3,1,split,sage,5,13,15,14,2,0.8,136.0,0.153,226.0
+Pelle,pll#moc,3,1,bind,omen,13,2,16,10,6,1.1,200.0,0.158,303.0
+Pelle,pll#moc,3,1,breeze,sova,13,5,12,10,3,0.7,114.0,0.047,184.0
+Pelle,pll#moc,3,1,breeze,sova,13,9,12,13,10,0.5,107.0,0.109,175.0
+Pelle,pll#moc,3,1,icebox,sage,13,10,26,16,5,1.1,153.0,0.1009999999999999,311.0
+Pelle,pll#moc,3,1,icebox,sage,13,8,17,9,7,0.8,136.0,0.136,233.0
+Pelle,pll#moc,3,1,icebox,sage,13,8,11,13,4,0.5,108.0,0.113,164.0
+Pelle,pll#moc,3,1,ascent,sage,13,2,7,4,2,0.5,83.0,0.103,134.0
+Pelle,pll#moc,3,1,icebox,sage,13,4,14,6,5,0.8,142.0,0.213,231.0
+Pelle,pll#moc,3,1,haven,sage,8,13,15,16,7,0.7,108.0,0.088,201.0
+Pelle,pll#moc,3,1,breeze,sage,13,8,15,11,2,0.7,135.0,0.075,208.0
+Pelle,pll#moc,3,1,breeze,sage,14,12,18,19,7,0.7,107.0,0.081,189.0
+Pelle,pll#moc,3,1,split,sage,13,4,19,6,6,1.1,163.0,0.183,285.0
+Pelle,pll#moc,3,1,bind,sage,13,5,15,11,3,0.8,127.0,0.131,238.0
+Pelle,pll#moc,3,1,haven,sage,13,1,15,5,6,1.1,152.0,0.091,260.0
+Pelle,pll#moc,3,1,bind,sage,7,13,10,16,4,0.5,99.0,0.159,152.0
+Pelle,pll#moc,3,1,haven,sage,12,14,16,18,3,0.6,109.0,0.193,163.0
+Pelle,pll#moc,3,1,haven,sage,13,7,18,12,9,0.9,182.0,0.182,265.0
+Pelle,pll#moc,3,1,breeze,sage,13,2,5,8,1,0.3,72.0,0.136,93.0
+Pelle,pll#moc,3,1,icebox,sage,9,13,18,18,3,0.8,147.0,0.188,234.0
+Pelle,pll#moc,3,1,haven,sage,13,8,19,14,4,0.9,137.0,0.161,242.0
+Pelle,pll#moc,3,1,icebox,sage,15,13,26,19,6,0.9,153.0,0.212,242.0
+Pelle,pll#moc,3,1,ascent,sage,13,5,13,8,5,0.7,123.0,0.1889999999999999,192.0
+Pelle,pll#moc,3,1,ascent,sage,13,5,21,8,4,1.2,186.0,0.171,317.0
+Pelle,pll#moc,3,1,icebox,sage,11,13,19,14,2,0.8,120.0,0.2,197.0
+Pelle,pll#moc,3,1,split,sage,12,14,20,21,5,0.8,120.0,0.122,212.0
+Pelle,pll#moc,3,1,breeze,sova,13,9,21,14,11,1.0,190.0,0.18,279.0
+Pelle,pll#moc,3,1,breeze,sage,7,13,13,16,3,0.7,108.0,0.135,182.0
+Pelle,pll#moc,3,1,icebox,sage,13,4,20,9,2,1.2,156.0,0.103,295.0
+Pelle,pll#moc,3,1,bind,sage,6,13,9,15,3,0.5,103.0,0.132,145.0
+Pelle,pll#moc,3,1,ascent,sage,13,9,19,11,4,0.9,117.0,0.179,212.0
+Pelle,pll#moc,3,1,split,sage,13,10,23,14,3,1.0,151.0,0.133,272.0
+Pelle,pll#moc,3,1,bind,sage,8,13,26,18,6,1.2,209.0,0.217,344.0
+Pelle,pll#moc,3,1,split,sage,13,4,24,6,2,1.4,220.0,0.183,374.0
+Pelle,pll#moc,3,1,icebox,sage,13,11,18,18,13,0.8,133.0,0.149,220.0
+Pelle,pll#moc,3,1,icebox,sage,11,13,18,15,6,0.8,173.0,0.158,220.0
+Pelle,pll#moc,3,1,split,sage,14,16,22,23,12,0.7,147.0,0.144,233.0
+Pelle,pll#moc,3,1,icebox,sage,3,13,15,14,1,0.9,182.0,0.103,286.0
+Pelle,pll#moc,3,1,haven,sage,9,13,15,18,10,0.7,170.0,0.171,232.0
+Pelle,pll#moc,3,1,icebox,sage,9,13,17,15,4,0.8,187.0,0.138,222.0
+Pelle,pll#moc,3,1,split,sage,12,14,22,16,9,0.8,167.0,0.121,244.0
+Pelle,pll#moc,3,1,haven,sage,7,13,16,15,4,0.8,174.0,0.135,254.0
+Pelle,pll#moc,3,1,ascent,sage,8,13,22,15,4,1.0,155.0,0.13,277.0
+Pelle,pll#moc,3,1,ascent,sage,10,13,17,14,4,0.7,111.0,0.133,191.0
+Pelle,pll#moc,3,1,ascent,sage,9,13,18,16,3,0.8,149.0,0.1,243.0
+Pelle,pll#moc,3,1,breeze,sage,6,13,16,15,3,0.8,161.0,0.098,246.0
+Pelle,pll#moc,3,1,haven,sage,13,6,16,9,3,0.8,133.0,0.208,211.0
+Pelle,pll#moc,3,1,bind,sage,13,7,18,13,6,0.9,154.0,0.1689999999999999,252.0
+Pelle,pll#moc,3,2,fracture,viper,9,13,10,15,5,0.5,103.0,0.235,146.0
+Pelle,pll#moc,3,2,bind,skye,4,13,10,14,6,0.6,113.0,0.154,172.0
+Pelle,pll#moc,3,2,haven,reyna,13,11,22,16,4,0.9,161.0,0.25,267.0
+Pelle,pll#moc,3,2,breeze,sova,13,5,13,11,7,0.7,151.0,0.263,205.0
+Pelle,pll#moc,3,2,ascent,sova,11,13,16,16,7,0.7,130.0,0.14,197.0
+Pelle,pll#moc,3,2,icebox,reyna,9,13,18,15,3,0.8,140.0,0.238,203.0
+Pelle,pll#moc,3,2,haven,sova,11,13,21,16,7,0.9,209.0,0.192,255.0
+Pelle,pll#moc,3,2,fracture,sova,13,10,10,15,1,0.4,83.0,0.087,122.0
+Pelle,pll#moc,3,2,fracture,sova,11,13,27,18,5,1.1,218.0,0.1889999999999999,320.0
+Pelle,pll#moc,3,2,ascent,sova,13,8,16,13,10,0.8,197.0,0.143,201.0
+Pelle,pll#moc,3,2,split,sage,13,2,14,7,9,0.9,140.0,0.143,243.0
+Pelle,pll#moc,3,2,bind,sova,13,9,20,16,4,0.9,192.0,0.171,217.0
+Pelle,pll#moc,3,2,haven,sova,13,11,19,13,9,0.8,145.0,0.242,229.0
+Pelle,pll#moc,3,2,haven,sova,13,5,14,12,5,0.8,164.0,0.133,231.0
+Pelle,pll#moc,3,2,icebox,sova,11,13,18,18,5,0.8,142.0,0.19,226.0
+Pelle,pll#moc,3,2,fracture,sova,6,13,15,15,8,0.8,147.0,0.17,237.0
+Pelle,pll#moc,3,2,breeze,sova,13,5,11,11,2,0.6,105.0,0.139,160.0
+Pelle,pll#moc,3,2,fracture,sova,13,2,17,5,6,1.1,169.0,0.14,293.0
+Pelle,pll#moc,3,2,ascent,sova,13,6,11,9,9,0.6,134.0,0.143,178.0
+Pelle,pll#moc,3,2,bind,sova,13,7,14,10,6,0.7,119.0,0.15,199.0
+Pelle,pll#moc,3,2,icebox,sova,13,6,10,11,5,0.5,106.0,0.1159999999999999,170.0
+Pelle,pll#moc,3,2,breeze,viper,8,13,9,16,10,0.4,95.0,0.106,143.0
+Pelle,pll#moc,3,3,split,skye,15,17,21,25,6,0.7,164.0,0.174,194.0
+Pelle,pll#moc,3,3,ascent,sova,13,6,10,12,17,0.5,142.0,0.085,195.0
+Pelle,pll#moc,3,3,split,skye,13,8,14,13,5,0.7,107.0,0.12,175.0
+Pelle,pll#moc,3,3,breeze,sova,13,5,5,11,7,0.3,62.0,0.1,91.0
+Pelle,pll#moc,3,3,ascent,sage,11,13,18,18,9,0.8,168.0,0.161,237.0
+Pelle,pll#moc,3,3,bind,sage,13,7,13,13,10,0.7,134.0,0.108,196.0
+Pelle,pll#moc,4,3,bind,chamber,11,13,19,18,6,0.8,151.0,0.152,232.0
+Pelle,pll#moc,4,3,fracture,chamber,11,13,15,15,3,0.6,119.0,0.239,182.0
+Pelle,pll#moc,4,3,icebox,chamber,13,11,16,16,7,0.7,142.0,0.2189999999999999,196.0
+Pelle,Poseidon#aerf,3,2,ascent,jett,13,6,15,11,6,0.8,184.0,0.1169999999999999,275.0
+Pelle,Poseidon#aerf,3,2,breeze,jett,1,13,5,14,6,0.4,110.0,0.054,156.0
+Pelle,Poseidon#aerf,3,2,fracture,jett,13,9,23,14,5,1.0,202.0,0.141,313.0
+Pelle,Poseidon#aerf,3,2,bind,sova,8,13,13,17,6,0.6,104.0,0.016,171.0
+Pelle,Poseidon#aerf,3,2,split,jett,13,7,25,12,7,1.3,236.0,0.1009999999999999,371.0
+Pelle,Poseidon#aerf,3,2,split,skye,9,13,21,18,7,1.0,183.0,0.143,274.0
+Pelle,Poseidon#aerf,3,2,breeze,jett,12,14,18,19,3,0.7,146.0,0.2,214.0
+Pelle,Poseidon#aerf,3,2,icebox,jett,10,13,28,14,3,1.2,221.0,0.192,352.0
+Pelle,Poseidon#aerf,3,2,haven,jett,12,14,18,19,7,0.7,160.0,0.153,226.0
+Pelle,Poseidon#aerf,3,2,split,jett,13,7,18,9,6,0.9,169.0,0.1889999999999999,281.0
+Pelle,Poseidon#aerf,3,2,icebox,sova,13,10,21,13,4,0.9,163.0,0.306,245.0
+Pelle,Poseidon#aerf,3,2,ascent,jett,13,4,20,7,2,1.2,207.0,0.1669999999999999,326.0
+Pelle,Poseidon#aerf,3,2,split,jett,13,2,9,9,6,0.6,125.0,0.154,165.0
+Pelle,Poseidon#aerf,3,2,split,skye,7,13,5,20,5,0.3,62.0,0.03,91.0
+Pelle,Poseidon#aerf,3,2,haven,skye,13,8,20,14,7,1.0,219.0,0.2,277.0
+Pelle,Poseidon#aerf,3,3,bind,sova,13,10,15,15,5,0.7,119.0,0.143,179.0
+Pelle,Poseidon#aerf,3,3,haven,sova,13,7,13,12,6,0.7,134.0,0.149,179.0
+Pelle,Poseidon#aerf,3,3,bind,sova,13,5,20,10,4,1.1,194.0,0.367,288.0
+Pelle,Poseidon#aerf,3,3,icebox,sova,11,13,14,19,7,0.6,126.0,0.191,182.0
+Pelle,Poseidon#aerf,3,3,breeze,sova,13,5,15,9,6,0.8,150.0,0.233,226.0
+Pelle,Poseidon#aerf,3,3,bind,sova,13,10,22,15,5,1.0,184.0,0.212,286.0
+Pelle,Poseidon#aerf,3,3,haven,sova,5,13,9,14,5,0.5,167.0,0.05,164.0
+Pelle,Poseidon#aerf,3,3,icebox,sova,13,10,19,13,10,0.8,142.0,0.1969999999999999,225.0
+Pelle,Poseidon#aerf,3,3,haven,sova,13,9,18,11,8,0.8,178.0,0.206,233.0
+Pelle,Poseidon#aerf,3,3,icebox,sova,13,3,11,11,8,0.7,146.0,0.184,225.0
+Pelle,Poseidon#aerf,3,3,ascent,sova,13,7,15,12,8,0.8,152.0,0.208,218.0
+Pelle,Poseidon#aerf,3,3,bind,sova,9,13,11,17,5,0.5,108.0,0.122,167.0
+Pelle,Poseidon#aerf,3,3,fracture,sova,15,15,25,21,8,0.8,207.0,0.192,240.0
+Pelle,Poseidon#aerf,3,3,fracture,sova,10,13,12,15,5,0.5,116.0,0.118,170.0
+Pelle,Poseidon#aerf,3,3,split,sova,13,11,13,19,6,0.5,107.0,0.13,171.0
+Pelle,Poseidon#aerf,3,3,bind,sova,13,7,12,10,11,0.6,138.0,0.063,202.0
+Pelle,Poseidon#aerf,3,3,ascent,cypher,13,11,12,16,8,0.5,158.0,0.173,153.0
+Pelle,Poseidon#aerf,3,3,split,sage,14,16,23,22,12,0.8,151.0,0.14,227.0
+Pelle,Poseidon#aerf,3,3,ascent,sova,9,13,13,19,5,0.6,117.0,0.086,179.0
+Pelle,Poseidon#aerf,3,3,haven,sova,13,8,18,12,6,0.9,216.0,0.175,225.0
+Pelle,Poseidon#aerf,3,3,icebox,sova,13,5,13,10,6,0.7,134.0,0.195,189.0
+Pelle,Poseidon#aerf,3,3,split,sage,7,13,12,15,10,0.6,128.0,0.148,196.0
+Pelle,Poseidon#aerf,3,3,split,skye,10,13,17,16,13,0.7,139.0,0.177,212.0
+Pelle,Poseidon#aerf,3,3,ascent,sova,15,13,23,18,9,0.8,302.0,0.271,259.0
+Pelle,Poseidon#aerf,3,3,icebox,sova,3,13,13,13,3,0.8,153.0,0.25,246.0
+Pelle,Poseidon#aerf,3,3,ascent,sage,13,0,12,6,10,0.9,178.0,0.176,259.0
+Pelle,Poseidon#aerf,3,3,bind,sova,13,7,23,13,7,1.2,214.0,0.1669999999999999,331.0
+Pelle,Poseidon#aerf,3,3,ascent,sova,13,4,14,8,9,0.8,166.0,0.2,239.0
+Pelle,Poseidon#aerf,3,3,ascent,sova,13,9,13,13,4,0.6,129.0,0.2289999999999999,180.0
+Pelle,Poseidon#aerf,3,3,icebox,sova,10,13,14,15,6,0.6,136.0,0.256,190.0
+Pelle,Poseidon#aerf,3,3,split,skye,6,13,11,15,7,0.6,118.0,0.296,167.0
+Pelle,Poseidon#aerf,3,3,bind,sova,13,11,15,16,7,0.6,125.0,0.158,180.0
+Pelle,Poseidon#aerf,3,3,icebox,sova,13,8,14,13,2,0.7,126.0,0.184,190.0
+Pelle,Poseidon#aerf,3,3,haven,sova,13,10,12,12,6,0.5,105.0,0.225,152.0
+Pelle,Poseidon#aerf,3,3,ascent,sova,13,8,11,10,3,0.5,98.0,0.273,138.0
+Pelle,Poseidon#aerf,3,3,icebox,sova,13,11,16,19,8,0.7,146.0,0.159,208.0
+Pelle,Poseidon#aerf,3,3,haven,sova,13,4,13,12,5,0.8,138.0,0.122,213.0
+Pelle,Poseidon#aerf,3,3,haven,sova,8,13,17,17,8,0.8,187.0,0.129,281.0
+Pelle,Poseidon#aerf,3,3,fracture,sova,13,4,14,12,14,0.8,183.0,0.073,267.0
+Pelle,Poseidon#aerf,3,3,bind,skye,13,4,20,7,9,1.2,214.0,0.134,334.0
+Pelle,Poseidon#aerf,4,1,ascent,sova,5,13,12,14,4,0.7,114.0,0.273,189.0
+Pelle,Poseidon#aerf,4,1,fracture,skye,13,10,17,18,7,0.7,151.0,0.14,236.0
+Pelle,Poseidon#aerf,4,1,ascent,sova,13,6,16,10,10,0.8,158.0,0.237,236.0
+Pelle,Poseidon#aerf,4,1,icebox,sova,13,6,7,12,4,0.4,76.0,0.474,112.0
+Douglas,Dobakay#BR1,3,1,ascent,jett,6,13,19,13,4,1.0,148.0,0.174,238.0
+Douglas,Dobakay#BR1,3,1,haven,reyna,5,13,15,15,6,0.8,180.0,0.1159999999999999,270.0
+Douglas,Dobakay#BR1,3,1,ascent,viper,13,5,25,11,6,1.4,206.0,0.2,375.0
+Douglas,Dobakay#BR1,3,1,ascent,reyna,9,13,18,18,8,0.8,159.0,0.091,249.0
+Douglas,Dobakay#BR1,3,1,haven,reyna,11,13,10,20,6,0.4,97.0,0.178,136.0
+Douglas,Dobakay#BR1,3,1,split,jett,12,14,16,20,5,0.6,90.0,0.105,156.0
+Douglas,Dobakay#BR1,3,1,icebox,jett,8,13,15,14,3,0.7,137.0,0.125,216.0
+Douglas,Dobakay#BR1,3,1,split,jett,4,13,7,15,2,0.4,84.0,0.3329999999999999,121.0
+Douglas,Dobakay#BR1,3,1,bind,jett,13,3,17,12,6,1.1,176.0,0.342,286.0
+Douglas,Dobakay#BR1,3,1,breeze,jett,5,13,15,13,5,0.8,162.0,0.3929999999999999,230.0
+Douglas,Dobakay#BR1,3,1,split,brimstone,13,8,13,12,5,0.6,120.0,0.133,174.0
+Douglas,Dobakay#BR1,3,1,bind,jett,13,10,13,16,0,0.6,104.0,0.095,167.0
+Douglas,Dobakay#BR1,3,1,split,jett,13,9,14,12,5,0.6,122.0,0.156,166.0
+Douglas,Dobakay#BR1,3,1,bind,jett,14,14,18,20,3,0.6,159.0,0.2239999999999999,180.0
+Douglas,Dobakay#BR1,3,1,haven,jett,12,14,13,16,2,0.5,65.0,0.278,112.0
+Douglas,Dobakay#BR1,3,1,icebox,jett,13,15,14,16,3,0.5,108.0,0.05,129.0
+Douglas,Dobakay#BR1,3,1,split,jett,13,15,20,18,8,0.7,137.0,0.162,222.0
+Douglas,Dobakay#BR1,3,1,breeze,jett,1,13,14,13,1,1.0,157.0,0.222,282.0
+Douglas,Dobakay#BR1,3,1,icebox,jett,14,12,33,19,1,1.3,199.0,0.1889999999999999,366.0
+Douglas,Dobakay#BR1,3,1,haven,jett,9,13,9,15,5,0.4,91.0,0.061,135.0
+Douglas,Dobakay#BR1,3,1,haven,jett,10,13,16,15,0,0.7,101.0,0.158,179.0
+Douglas,Dobakay#BR1,3,1,split,jett,3,13,10,12,1,0.6,90.0,0.1,182.0
+Douglas,Dobakay#BR1,3,1,breeze,jett,13,3,11,5,1,0.7,108.0,0.182,170.0
+Douglas,Dobakay#BR1,3,1,bind,viper,13,8,18,12,3,0.9,169.0,0.1669999999999999,212.0
+Douglas,Dobakay#BR1,3,1,split,jett,9,13,12,14,4,0.5,95.0,0.1669999999999999,143.0
+Douglas,Dobakay#BR1,3,1,ascent,jett,13,8,5,18,1,0.2,29.0,0.0,51.0
+Douglas,Dobakay#BR1,3,1,bind,jett,2,13,6,14,1,0.4,59.0,0.118,98.0
+Douglas,Dobakay#BR1,3,1,breeze,jett,11,13,19,13,5,0.8,142.0,0.235,217.0
+Douglas,Dobakay#BR1,3,1,icebox,viper,13,15,16,19,5,0.6,101.0,0.242,157.0
+Douglas,Dobakay#BR1,3,1,haven,jett,3,13,12,13,0,0.8,107.0,0.105,199.0
+Douglas,Dobakay#BR1,3,1,icebox,jett,15,13,19,22,6,0.7,126.0,0.159,199.0
+Douglas,Dobakay#BR1,3,1,split,jett,5,13,9,16,2,0.5,80.0,0.143,138.0
+Douglas,Dobakay#BR1,3,1,bind,jett,13,10,19,17,1,0.8,131.0,0.148,234.0
+Douglas,Dobakay#BR1,3,1,bind,jett,14,12,17,16,3,0.7,123.0,0.1669999999999999,188.0
+Douglas,Dobakay#BR1,3,1,icebox,jett,7,13,15,17,4,0.8,146.0,0.1669999999999999,229.0
+Douglas,Dobakay#BR1,3,1,haven,jett,13,10,11,17,6,0.5,89.0,0.087,146.0
+Douglas,Dobakay#BR1,3,1,split,jett,5,13,11,17,2,0.6,97.0,0.185,160.0
+Douglas,Dobakay#BR1,3,1,split,jett,13,10,12,12,7,0.5,110.0,0.2689999999999999,150.0
+Douglas,Dobakay#BR1,3,1,ascent,jett,3,13,8,13,0,0.5,86.0,0.222,129.0
+Douglas,Dobakay#BR1,3,1,bind,jett,13,2,10,6,3,0.7,118.0,0.211,168.0
+Douglas,Dobakay#BR1,3,1,breeze,jett,13,5,16,9,1,0.9,115.0,0.143,243.0
+Douglas,Dobakay#BR1,3,1,breeze,jett,13,9,10,15,6,0.5,88.0,0.0,126.0
+Douglas,Dobakay#BR1,3,1,icebox,jett,13,10,14,15,2,0.6,86.0,0.0,155.0
+Douglas,Dobakay#BR1,3,1,bind,reyna,13,11,15,13,5,0.6,107.0,0.143,175.0
+Douglas,Dobakay#BR1,3,1,ascent,jett,6,13,6,15,2,0.3,62.0,0.222,97.0
+Douglas,Dobakay#BR1,3,1,icebox,jett,13,8,12,12,3,0.6,150.0,0.077,163.0
+Douglas,Dobakay#BR1,3,1,icebox,jett,13,8,12,13,0,0.6,105.0,0.045,167.0
+Douglas,Dobakay#BR1,3,1,haven,jett,13,2,10,6,2,0.7,132.0,0.125,187.0
+Douglas,Dobakay#BR1,3,1,breeze,viper,13,3,13,9,5,0.8,132.0,0.077,193.0
+Douglas,Dobakay#BR1,3,1,haven,jett,9,13,17,16,3,0.8,120.0,0.118,197.0
+Douglas,Dobakay#BR1,3,1,bind,jett,13,9,16,18,5,0.7,131.0,0.211,216.0
+Douglas,Dobakay#BR1,3,1,ascent,jett,13,2,11,9,2,0.7,110.0,0.0,192.0
+Douglas,Dobakay#BR1,3,1,icebox,jett,13,4,10,11,5,0.6,104.0,0.0,173.0
+Douglas,Dobakay#BR1,3,1,haven,jett,8,13,9,18,4,0.4,82.0,0.091,135.0
+Douglas,Dobakay#BR1,3,1,haven,jett,8,13,12,14,4,0.6,123.0,0.1939999999999999,173.0
+Douglas,Dobakay#BR1,3,1,breeze,jett,8,13,10,14,3,0.5,81.0,0.107,132.0
+Douglas,Dobakay#BR1,3,1,breeze,jett,13,8,19,12,1,0.9,150.0,0.3,227.0
+Douglas,Dobakay#BR1,3,1,breeze,jett,14,12,14,14,3,0.5,92.0,0.071,146.0
+Douglas,Dobakay#BR1,3,1,split,reyna,13,4,13,11,3,0.8,136.0,0.163,218.0
+Douglas,Dobakay#BR1,3,1,bind,jett,13,5,14,13,5,0.8,121.0,0.033,223.0
+Douglas,Dobakay#BR1,3,1,haven,jett,13,1,7,6,2,0.5,97.0,0.2,132.0
+Douglas,Dobakay#BR1,3,1,bind,jett,7,13,13,15,4,0.7,102.0,0.214,197.0
+Douglas,Dobakay#BR1,3,1,haven,reyna,13,7,24,13,3,1.2,203.0,0.1939999999999999,333.0
+Douglas,Dobakay#BR1,3,1,breeze,jett,13,2,8,10,2,0.5,123.0,0.154,156.0
+Douglas,Dobakay#BR1,3,1,icebox,jett,13,4,13,12,4,0.8,95.0,0.294,204.0
+Douglas,Dobakay#BR1,3,1,icebox,jett,7,13,13,15,2,0.7,145.0,0.233,175.0
+Douglas,Dobakay#BR1,3,1,icebox,jett,9,13,15,15,3,0.7,104.0,0.091,203.0
+Douglas,Dobakay#BR1,3,1,haven,jett,13,8,13,18,3,0.6,90.0,0.083,168.0
+Douglas,Dobakay#BR1,3,1,icebox,jett,7,13,11,14,2,0.6,112.0,0.125,174.0
+Douglas,Dobakay#BR1,3,1,icebox,jett,4,13,8,15,2,0.5,99.0,0.0,161.0
+Douglas,Dobakay#BR1,3,1,bind,jett,13,6,20,9,3,1.1,155.0,0.073,273.0
+Douglas,Dobakay#BR1,3,1,icebox,sage,13,0,4,2,0,0.3,60.0,0.286,75.0
+Douglas,Dobakay#BR1,3,1,breeze,jett,13,11,23,14,4,1.0,166.0,0.1,264.0
+Douglas,Dobakay#BR1,3,1,ascent,jett,7,13,19,15,3,1.0,152.0,0.083,247.0
+Douglas,Dobakay#BR1,3,1,split,jett,13,8,11,13,5,0.5,85.0,0.129,146.0
+Douglas,Dobakay#BR1,3,1,bind,jett,3,13,7,15,4,0.4,110.0,0.162,156.0
+Douglas,Dobakay#BR1,3,1,icebox,reyna,14,12,19,18,3,0.7,122.0,0.103,204.0
+Douglas,Dobakay#BR1,3,1,split,jett,7,13,17,16,1,0.9,157.0,0.125,224.0
+Douglas,Dobakay#BR1,3,1,bind,jett,13,8,19,11,1,0.9,128.0,0.176,246.0
+Douglas,Dobakay#BR1,3,1,icebox,jett,15,13,13,17,5,0.5,145.0,0.104,148.0
+Douglas,Dobakay#BR1,3,1,split,jett,13,8,23,10,1,1.1,161.0,0.071,292.0
+Douglas,Dobakay#BR1,3,1,icebox,jett,9,13,13,15,2,0.6,129.0,0.063,156.0
+Douglas,Dobakay#BR1,3,1,ascent,jett,13,5,9,12,3,0.5,85.0,0.0,140.0
+Douglas,Dobakay#BR1,3,1,ascent,jett,13,5,14,13,1,0.8,119.0,0.13,209.0
+Douglas,Dobakay#BR1,3,1,icebox,reyna,11,13,13,19,4,0.5,159.0,0.22,166.0
+Douglas,Dobakay#BR1,3,1,icebox,viper,2,13,13,14,3,0.9,151.0,0.172,255.0
+Douglas,Dobakay#BR1,3,1,bind,viper,13,9,18,14,7,0.8,139.0,0.071,214.0
+Douglas,Dobakay#BR1,3,1,split,jett,12,14,15,16,2,0.6,91.0,0.231,165.0
+Douglas,Dobakay#BR1,3,1,breeze,jett,13,9,18,16,2,0.8,116.0,0.222,201.0
+Douglas,Dobakay#BR1,3,1,breeze,jett,7,13,16,14,5,0.8,138.0,0.037,226.0
+Douglas,Dobakay#BR1,3,1,icebox,jett,13,10,14,15,1,0.6,96.0,0.0,159.0
+Douglas,Dobakay#BR1,3,1,icebox,jett,13,4,9,9,2,0.5,87.0,0.3329999999999999,165.0
+Douglas,Dobakay#BR1,3,1,bind,jett,6,13,9,14,1,0.5,92.0,0.083,156.0
+Douglas,Dobakay#BR1,3,1,bind,jett,3,13,9,13,2,0.6,104.0,0.138,170.0
+Douglas,Dobakay#BR1,3,1,icebox,viper,13,10,12,16,7,0.5,85.0,0.119,140.0
+Douglas,Dobakay#BR1,3,1,split,jett,14,12,22,15,1,0.8,126.0,0.154,215.0
+Douglas,Dobakay#BR1,3,1,haven,jett,11,13,15,15,4,0.6,125.0,0.22,182.0
+Douglas,Dobakay#BR1,3,1,ascent,jett,13,9,22,15,4,1.0,182.0,0.14,286.0
+Douglas,Dobakay#BR1,3,1,split,jett,13,10,15,15,1,0.7,104.0,0.281,169.0
+Douglas,Dobakay#BR1,3,1,bind,jett,8,13,18,19,6,0.9,181.0,0.154,254.0
+Douglas,Dobakay#BR1,3,1,split,jett,13,4,15,8,4,0.9,155.0,0.0969999999999999,250.0
+Douglas,Dobakay#BR1,3,1,icebox,viper,13,11,13,19,9,0.5,124.0,0.061,165.0
+Douglas,Dobakay#BR1,3,1,icebox,jett,11,13,17,18,7,0.7,148.0,0.143,224.0
+Douglas,Dobakay#BR1,3,1,split,jett,14,16,23,20,4,0.8,127.0,0.133,204.0
+Douglas,Dobakay#BR1,3,1,icebox,viper,3,13,6,14,1,0.4,79.0,0.154,131.0
+Douglas,Dobakay#BR1,3,1,haven,jett,9,13,14,18,2,0.6,90.0,0.115,176.0
+Douglas,Dobakay#BR1,3,1,bind,viper,12,14,12,13,7,0.5,80.0,0.105,115.0
+Douglas,Dobakay#BR1,3,1,haven,jett,13,9,11,11,2,0.5,100.0,0.25,150.0
+Douglas,Dobakay#BR1,3,1,bind,jett,11,13,16,16,5,0.7,108.0,0.259,189.0
+Douglas,Dobakay#BR1,3,1,ascent,jett,13,2,13,5,1,0.9,102.0,0.176,224.0
+Douglas,Dobakay#BR1,3,1,split,jett,12,14,16,20,4,0.6,129.0,0.143,195.0
+Douglas,Dobakay#BR1,3,1,haven,jett,13,4,12,6,1,0.7,102.0,0.1669999999999999,185.0
+Douglas,Dobakay#BR1,3,1,haven,jett,13,2,7,4,0,0.5,69.0,0.111,93.0
+Douglas,Dobakay#BR1,3,1,split,jett,8,13,16,16,1,0.8,115.0,0.0,201.0
+Douglas,Dobakay#BR1,3,1,bind,jett,13,11,16,14,3,0.7,92.0,0.182,163.0
+Douglas,Dobakay#BR1,3,1,bind,viper,9,13,15,14,0,0.7,109.0,0.096,176.0
+Douglas,Dobakay#BR1,3,1,icebox,viper,9,13,9,18,1,0.4,73.0,0.125,118.0
+Douglas,Dobakay#BR1,3,1,split,jett,12,14,26,16,2,1.0,161.0,0.276,279.0
+Douglas,Dobakay#BR1,3,1,icebox,jett,13,3,17,6,3,1.1,163.0,0.207,291.0
+Douglas,Dobakay#BR1,3,1,ascent,viper,0,13,3,13,2,0.2,78.0,0.1669999999999999,109.0
+Douglas,Dobakay#BR1,3,1,split,jett,11,13,14,14,2,0.6,114.0,0.1939999999999999,177.0
+Douglas,Dobakay#BR1,3,1,haven,jett,7,13,14,18,3,0.7,102.0,0.1,198.0
+Douglas,Dobakay#BR1,3,1,ascent,viper,8,13,13,16,5,0.6,101.0,0.172,159.0
+Douglas,Dobakay#BR1,3,1,split,jett,14,16,21,18,5,0.7,125.0,0.07,184.0
+Douglas,Dobakay#BR1,3,1,ascent,viper,11,13,12,16,6,0.5,104.0,0.171,135.0
+Douglas,Dobakay#BR1,3,1,ascent,viper,10,13,12,15,2,0.5,90.0,0.0,145.0
+Douglas,Dobakay#BR1,3,1,ascent,viper,9,13,16,17,3,0.7,105.0,0.12,190.0
+Douglas,Dobakay#BR1,3,1,breeze,jett,6,13,15,16,1,0.8,112.0,0.212,207.0
+Douglas,Dobakay#BR1,3,1,haven,jett,13,6,11,10,4,0.6,93.0,0.231,160.0
+Douglas,Dobakay#BR1,3,1,bind,viper,13,7,10,8,3,0.5,86.0,0.053,136.0
+Douglas,Dobakay#BR1,3,2,haven,viper,10,13,12,15,5,0.5,102.0,0.2,147.0
+Douglas,Dobakay#BR1,3,2,bind,viper,6,13,16,13,4,0.8,196.0,0.13,234.0
+Douglas,Dobakay#BR1,3,2,fracture,viper,7,13,12,17,6,0.6,149.0,0.244,188.0
+Douglas,Dobakay#BR1,3,2,fracture,viper,13,9,26,11,3,1.2,247.0,0.157,327.0
+Douglas,Dobakay#BR1,3,2,icebox,viper,10,13,31,15,5,1.3,253.0,0.095,360.0
+Douglas,Dobakay#BR1,3,2,ascent,viper,13,6,24,12,4,1.3,209.0,0.225,327.0
+Douglas,Dobakay#BR1,3,2,breeze,viper,3,13,13,13,5,0.8,170.0,0.174,237.0
+Douglas,Dobakay#BR1,3,2,haven,viper,13,9,15,13,3,0.7,133.0,0.2239999999999999,193.0
+Douglas,Dobakay#BR1,3,2,split,breach,13,11,8,17,9,0.3,71.0,0.093,102.0
+Douglas,Dobakay#BR1,3,2,fracture,viper,4,13,13,15,7,0.8,146.0,0.163,216.0
+Douglas,Dobakay#BR1,3,2,ascent,jett,11,13,25,16,0,1.0,167.0,0.235,267.0
+Douglas,Dobakay#BR1,3,2,breeze,viper,9,13,22,15,6,1.0,192.0,0.186,288.0
+Douglas,Dobakay#BR1,3,2,bind,viper,15,15,21,22,11,0.7,146.0,0.261,205.0
+Douglas,Dobakay#BR1,3,2,haven,viper,6,13,17,16,3,0.9,223.0,0.2,271.0
+Douglas,Dobakay#BR1,3,2,fracture,viper,2,13,18,13,2,1.2,208.0,0.111,352.0
+Douglas,Dobakay#BR1,3,2,bind,viper,7,13,20,15,3,1.0,143.0,0.203,250.0
+Douglas,Dobakay#BR1,3,2,icebox,viper,10,13,16,18,7,0.7,137.0,0.151,196.0
+Douglas,Dobakay#BR1,3,2,fracture,viper,11,13,21,14,2,0.9,204.0,0.127,263.0
+Douglas,Dobakay#BR1,3,2,split,viper,11,13,14,18,7,0.6,134.0,0.131,188.0
+Douglas,Dobakay#BR1,3,2,fracture,viper,6,13,12,14,0,0.6,103.0,0.091,176.0
+Douglas,Dobakay#BR1,3,2,haven,reyna,12,14,19,21,6,0.7,137.0,0.231,192.0
+Douglas,Dobakay#BR1,3,2,bind,viper,4,13,9,14,3,0.5,117.0,0.212,184.0
+Douglas,Dobakay#BR1,3,2,icebox,viper,13,7,18,10,3,0.9,148.0,0.326,252.0
+Douglas,Dobakay#BR1,3,2,icebox,viper,13,4,17,8,3,1.0,163.0,0.125,252.0
+Douglas,Dobakay#BR1,3,2,icebox,viper,3,13,9,13,4,0.6,112.0,0.039,183.0
+Douglas,Dobakay#BR1,3,2,haven,reyna,13,5,27,9,1,1.5,224.0,0.171,381.0
+Douglas,Dobakay#BR1,3,2,haven,viper,13,11,5,18,6,0.2,68.0,0.211,86.0
+Douglas,Dobakay#BR1,3,2,breeze,viper,13,5,16,10,2,0.9,113.0,0.105,182.0
+Douglas,Dobakay#BR1,3,2,breeze,viper,1,13,8,13,3,0.6,106.0,0.0,186.0
+Douglas,Dobakay#BR1,3,2,bind,viper,10,13,16,14,5,0.7,129.0,0.1369999999999999,184.0
+Douglas,Dobakay#BR1,3,2,split,viper,13,11,13,11,4,0.5,105.0,0.2,162.0
+Douglas,Dobakay#BR1,3,2,haven,viper,13,8,15,16,5,0.7,121.0,0.1669999999999999,194.0
+Douglas,Dobakay#BR1,3,2,split,viper,14,12,15,16,4,0.6,138.0,0.139,155.0
+Douglas,Dobakay#BR1,3,2,fracture,viper,13,8,13,15,7,0.6,116.0,0.1939999999999999,164.0
+Douglas,Dobakay#BR1,3,2,split,viper,13,9,22,16,5,1.0,222.0,0.172,268.0
+Douglas,Dobakay#BR1,3,2,breeze,viper,5,13,12,13,4,0.7,143.0,0.156,207.0
+Douglas,Dobakay#BR1,3,2,bind,viper,11,13,12,19,8,0.5,122.0,0.083,174.0
+Douglas,Dobakay#BR1,3,2,breeze,viper,13,11,16,14,2,0.7,132.0,0.24,182.0
+Douglas,Dobakay#BR1,3,2,haven,viper,11,13,18,16,5,0.8,124.0,0.1889999999999999,187.0
+Douglas,Dobakay#BR1,3,2,fracture,viper,13,10,10,12,6,0.4,83.0,0.143,127.0
+Douglas,Dobakay#BR1,3,2,fracture,viper,11,13,9,15,4,0.4,72.0,0.053,113.0
+Douglas,Dobakay#BR1,3,2,ascent,viper,13,8,10,13,7,0.5,92.0,0.111,140.0
+Douglas,Dobakay#BR1,3,2,split,viper,13,2,7,9,6,0.5,80.0,0.25,134.0
+Douglas,Dobakay#BR1,3,2,split,viper,11,13,14,16,4,0.6,136.0,0.19,171.0
+Douglas,Dobakay#BR1,3,2,breeze,viper,13,5,17,7,2,0.9,149.0,0.2289999999999999,216.0
+Douglas,Dobakay#BR1,3,2,bind,viper,13,9,16,13,8,0.7,182.0,0.15,202.0
+Douglas,Dobakay#BR1,3,2,haven,viper,13,11,16,14,9,0.7,113.0,0.068,190.0
+Douglas,Dobakay#BR1,3,2,haven,viper,13,5,13,11,5,0.7,124.0,0.074,199.0
+Douglas,Dobakay#BR1,3,2,icebox,viper,11,13,15,18,7,0.6,130.0,0.076,194.0
+Douglas,Dobakay#BR1,3,2,fracture,jett,6,13,10,12,2,0.5,99.0,0.067,165.0
+Douglas,Dobakay#BR1,3,2,breeze,viper,13,5,12,9,5,0.7,136.0,0.143,185.0
+Douglas,Dobakay#BR1,3,2,fracture,viper,13,2,11,8,7,0.7,154.0,0.104,220.0
+Douglas,Dobakay#BR1,3,2,ascent,viper,13,6,7,15,4,0.4,70.0,0.053,111.0
+Douglas,Dobakay#BR1,3,2,bind,viper,13,7,13,11,8,0.7,118.0,0.163,201.0
+Douglas,Dobakay#BR1,3,2,breeze,viper,6,13,18,14,3,0.9,170.0,0.111,284.0
+Douglas,Dobakay#BR1,3,3,icebox,viper,3,13,7,13,1,0.4,75.0,0.125,121.0
+Douglas,Dobakay#BR1,3,3,ascent,viper,13,0,11,7,5,0.8,120.0,0.121,211.0
+Douglas,Dobakay#BR1,3,3,haven,viper,15,15,22,20,4,0.7,124.0,0.216,178.0
+Douglas,Dobakay#BR1,3,3,icebox,viper,13,5,16,13,5,0.9,173.0,0.205,251.0
+Douglas,Dobakay#BR1,3,3,fracture,viper,7,13,12,15,4,0.6,105.0,0.242,163.0
+Douglas,Dobakay#BR1,3,3,bind,viper,13,7,25,13,2,1.3,180.0,0.213,335.0
+Douglas,Dobakay#BR1,3,3,ascent,viper,13,4,17,9,6,1.0,158.0,0.204,274.0
+Douglas,Dobakay#BR1,3,3,ascent,viper,13,9,22,14,5,1.0,167.0,0.183,259.0
+Douglas,Dobakay#BR1,3,3,bind,viper,13,11,13,18,9,0.5,106.0,0.136,159.0
+Douglas,Dobakay#BR1,3,3,icebox,viper,13,8,10,17,5,0.5,104.0,0.086,154.0
+Douglas,Dobakay#BR1,3,3,haven,viper,13,10,13,17,5,0.6,106.0,0.243,153.0
+Douglas,Dobakay#BR1,3,3,ascent,viper,13,8,23,14,4,1.1,173.0,0.267,305.0
+Douglas,Dobakay#BR1,3,3,icebox,viper,13,11,21,19,7,0.9,209.0,0.149,271.0
+Douglas,Dobakay#BR1,3,3,haven,viper,13,4,16,8,4,0.9,187.0,0.22,255.0
+Douglas,Dobakay#BR1,3,3,haven,viper,8,13,17,17,4,0.8,142.0,0.154,229.0
+Douglas,Dobakay#BR1,3,3,fracture,viper,13,4,12,11,9,0.7,139.0,0.136,219.0
+Douglas,Dobakay#BR1,3,3,bind,viper,13,4,13,7,6,0.8,120.0,0.267,188.0
+Douglas,Dobakay#BR1,4,1,ascent,astra,8,13,14,15,3,0.7,101.0,0.208,155.0
+Douglas,Dobakay#BR1,4,1,bind,viper,4,13,13,15,5,0.8,126.0,0.149,226.0
+Douglas,Dobakay#BR1,4,1,breeze,viper,13,4,9,5,6,0.5,109.0,0.143,147.0
+Douglas,Dobakay#BR1,4,1,ascent,viper,5,13,6,17,7,0.3,97.0,0.292,132.0
+Douglas,Dobakay#BR1,4,1,fracture,viper,13,10,23,15,12,1.0,181.0,0.1689999999999999,277.0
+Douglas,Dobakay#BR1,4,1,ascent,viper,13,6,13,13,8,0.7,140.0,0.255,193.0
+Douglas,Dobakay#BR1,4,1,icebox,viper,13,6,19,10,8,1.0,170.0,0.1969999999999999,270.0
+Douglas,Dobakay#BR1,4,1,fracture,viper,9,13,20,13,1,0.9,166.0,0.212,254.0
+Douglas,Dobakay#BR1,4,1,haven,breach,6,13,9,16,4,0.5,100.0,0.303,138.0
+Douglas,Dobakay#BR1,4,1,bind,viper,10,13,17,17,9,0.7,151.0,0.242,210.0
+Douglas,Dobakay#BR1,4,1,haven,viper,13,10,13,12,10,0.6,154.0,0.367,173.0
+Douglas,Dobakay#BR1,4,1,breeze,viper,3,13,8,13,2,0.5,90.0,0.138,135.0
+Douglas,Dobakay#BR1,4,1,breeze,viper,13,9,20,13,7,0.9,183.0,0.2269999999999999,271.0
+Douglas,Dobakay#BR1,4,1,split,viper,12,14,12,20,5,0.5,87.0,0.146,129.0
+Douglas,Dobakay#BR1,4,1,ascent,viper,11,13,20,14,6,0.8,169.0,0.3329999999999999,244.0
+Douglas,Dobakay#BR1,4,1,haven,viper,13,1,17,6,6,1.2,245.0,0.211,346.0
+Douglas,Dobakay#BR1,4,1,bind,viper,13,4,13,5,5,0.8,120.0,0.174,185.0
+Douglas,Dobakay#BR1,4,1,haven,viper,13,3,16,9,6,1.0,226.0,0.094,266.0
+Douglas,Dobakay#BR1,4,1,ascent,viper,12,14,17,19,3,0.7,113.0,0.236,183.0
+Douglas,Dobakay#BR1,4,1,breeze,viper,15,13,39,13,2,1.4,226.0,0.289,376.0
+Douglas,Dobakay#BR1,4,1,split,viper,10,13,12,16,7,0.5,121.0,0.1639999999999999,165.0
+Douglas,Dobakay#BR1,4,1,ascent,viper,13,7,17,14,8,0.9,171.0,0.1969999999999999,248.0
+Douglas,Dobakay#BR1,4,1,ascent,viper,13,9,14,15,9,0.6,104.0,0.257,167.0
+Douglas,Dobakay#BR1,4,1,icebox,viper,10,13,21,17,4,0.9,155.0,0.254,260.0
+Douglas,Dobakay#BR1,4,1,haven,viper,16,14,27,22,12,0.9,169.0,0.2019999999999999,270.0
+Douglas,Dobakay#BR1,4,1,bind,viper,13,11,19,16,4,0.8,145.0,0.254,226.0
+Douglas,Dobakay#BR1,4,2,split,viper,13,6,13,10,5,0.7,125.0,0.2,177.0
+Douglas,Dobakay#BR1,4,2,haven,viper,2,13,14,15,3,0.9,162.0,0.359,269.0
+Douglas,Dobakay#BR1,4,2,fracture,viper,12,14,8,21,7,0.3,71.0,0.094,96.0
+Douglas,Dobakay#BR1,4,2,ascent,omen,13,2,18,7,7,1.2,218.0,0.096,339.0
+Douglas,Dobakay#BR1,4,2,fracture,viper,13,4,11,9,4,0.6,105.0,0.114,169.0
+Douglas,Dobakay#BR1,4,2,icebox,viper,13,7,16,14,8,0.8,134.0,0.173,220.0
+Douglas,Dobakay#BR1,4,2,bind,viper,13,5,16,11,8,0.9,150.0,0.1669999999999999,246.0
+Douglas,Dobakay#BR1,4,3,icebox,viper,3,13,13,14,0,0.8,136.0,0.22,211.0
+Douglas,Dobakay#BR1,4,3,haven,breach,9,13,14,19,4,0.6,148.0,0.226,206.0
+Douglas,Dobakay#BR1,4,3,split,viper,9,13,8,17,3,0.4,81.0,0.108,121.0
+Douglas,Dobakay#BR1,4,3,split,viper,11,13,15,18,12,0.6,134.0,0.068,202.0
+Douglas,Dobakay#BR1,4,3,bind,viper,11,13,17,16,6,0.7,127.0,0.362,194.0
+Douglas,Dobakay#BR1,4,3,fracture,breach,11,13,9,18,6,0.4,82.0,0.15,124.0
+Douglas,Dobakay#BR1,4,3,icebox,sage,13,11,18,17,6,0.8,196.0,0.1639999999999999,220.0
+Douglas,Dobakay#BR1,4,3,breeze,viper,13,5,16,10,4,0.9,153.0,0.188,260.0
+Douglas,Dobakay#BR1,4,3,haven,chamber,13,8,13,12,2,0.6,131.0,0.271,186.0
+Douglas,Dobakay#BR1,4,3,ascent,omen,13,5,12,10,8,0.7,95.0,0.176,169.0
+Douglas,Dobakay#BR1,4,3,breeze,viper,13,4,14,9,8,0.8,164.0,0.436,243.0
+Douglas,Dobakay#BR1,4,3,bind,viper,13,6,11,10,4,0.6,107.0,0.143,158.0
+Douglas,Dobakay#BR1,4,3,icebox,viper,14,12,11,17,3,0.4,103.0,0.094,134.0
+Douglas,NGL Jambaloso#2508,3,1,ascent,breach,3,13,8,14,1,0.5,115.0,0.133,168.0
+Douglas,NGL Jambaloso#2508,3,1,haven,jett,9,13,26,16,3,1.2,221.0,0.21,361.0
+Douglas,NGL Jambaloso#2508,3,1,haven,reyna,13,7,21,11,5,1.1,173.0,0.14,275.0
+Douglas,NGL Jambaloso#2508,3,1,haven,jett,6,13,15,16,3,0.8,140.0,0.156,214.0
+Douglas,NGL Jambaloso#2508,3,1,split,brimstone,8,13,21,14,3,1.0,199.0,0.321,302.0
+Douglas,NGL Jambaloso#2508,3,1,ascent,reyna,10,13,28,20,6,1.2,205.0,0.122,351.0
+Douglas,NGL Jambaloso#2508,3,1,bind,jett,7,13,30,14,3,1.5,261.0,0.146,438.0
+Douglas,NGL Jambaloso#2508,3,1,breeze,reyna,13,0,5,2,1,0.4,59.0,0.077,95.0
+Douglas,NGL Jambaloso#2508,3,1,split,jett,15,13,33,21,2,1.2,193.0,0.165,321.0
+Douglas,NGL Jambaloso#2508,3,1,icebox,jett,1,13,14,13,1,1.0,179.0,0.265,271.0
+Douglas,NGL Jambaloso#2508,3,1,bind,reyna,7,13,23,15,1,1.2,228.0,0.133,335.0
+Douglas,NGL Jambaloso#2508,3,1,icebox,reyna,13,6,37,13,0,1.9,313.0,0.127,518.0
+Douglas,NGL Jambaloso#2508,3,1,breeze,reyna,9,13,23,15,4,1.0,168.0,0.0969999999999999,256.0
+Douglas,NGL Jambaloso#2508,3,1,split,reyna,13,10,21,13,1,0.9,160.0,0.2289999999999999,231.0
+Douglas,NGL Jambaloso#2508,3,1,icebox,reyna,13,7,28,10,5,1.4,291.0,0.159,394.0
+Douglas,NGL Jambaloso#2508,3,1,breeze,reyna,4,13,12,16,4,0.7,190.0,0.135,249.0
+Douglas,NGL Jambaloso#2508,3,1,bind,reyna,10,13,21,17,4,0.9,173.0,0.096,257.0
+Douglas,NGL Jambaloso#2508,3,1,icebox,reyna,11,13,28,15,5,1.2,250.0,0.19,326.0
+Douglas,NGL Jambaloso#2508,3,1,bind,reyna,13,4,28,8,5,1.6,363.0,0.168,480.0
+Douglas,NGL Jambaloso#2508,3,1,ascent,reyna,13,11,21,19,4,0.9,146.0,0.154,240.0
+Douglas,NGL Jambaloso#2508,3,1,ascent,reyna,13,3,28,8,2,1.8,243.0,0.215,466.0
+Douglas,NGL Jambaloso#2508,3,1,bind,reyna,15,13,37,20,4,1.3,264.0,0.091,394.0
+Douglas,NGL Jambaloso#2508,3,1,haven,jett,5,13,15,17,8,0.8,160.0,0.25,253.0
+Douglas,NGL Jambaloso#2508,3,1,bind,jett,10,13,19,15,5,0.8,129.0,0.185,207.0
+Douglas,NGL Jambaloso#2508,3,1,haven,reyna,13,5,14,12,6,0.8,180.0,0.147,209.0
+Douglas,NGL Jambaloso#2508,3,1,ascent,viper,5,13,16,14,5,0.9,166.0,0.146,287.0
+Douglas,NGL Jambaloso#2508,3,1,breeze,jett,4,13,8,14,0,0.5,92.0,0.0,132.0
+Douglas,NGL Jambaloso#2508,3,1,icebox,jett,13,10,26,13,5,1.1,181.0,0.304,282.0
+Douglas,NGL Jambaloso#2508,3,1,bind,jett,13,11,22,16,5,0.9,227.0,0.235,278.0
+Douglas,NGL Jambaloso#2508,3,1,split,jett,14,12,31,18,6,1.2,190.0,0.1669999999999999,333.0
+Douglas,NGL Jambaloso#2508,3,2,fracture,viper,13,7,14,13,5,0.7,175.0,0.205,182.0
+Douglas,NGL Jambaloso#2508,3,2,split,viper,13,15,20,18,5,0.7,129.0,0.161,211.0
+Douglas,NGL Jambaloso#2508,3,2,breeze,viper,1,13,8,13,1,0.6,110.0,0.292,179.0
+Douglas,NGL Jambaloso#2508,3,2,fracture,viper,13,9,15,12,8,0.7,134.0,0.094,204.0
+Douglas,NGL Jambaloso#2508,3,2,bind,viper,8,13,19,15,6,0.9,172.0,0.217,262.0
+Douglas,NGL Jambaloso#2508,3,2,split,viper,13,7,30,8,8,1.5,228.0,0.118,390.0
+Douglas,NGL Jambaloso#2508,3,2,split,viper,9,13,15,15,7,0.7,185.0,0.086,203.0
+Douglas,NGL Jambaloso#2508,3,2,breeze,viper,12,14,26,20,2,1.0,185.0,0.3329999999999999,286.0
+Douglas,NGL Jambaloso#2508,3,2,icebox,viper,10,13,20,16,6,0.9,168.0,0.157,242.0
+Douglas,NGL Jambaloso#2508,3,2,haven,viper,12,14,26,18,8,1.0,190.0,0.1689999999999999,280.0
+Douglas,NGL Jambaloso#2508,3,2,split,viper,13,7,12,10,6,0.6,117.0,0.1159999999999999,158.0
+Douglas,NGL Jambaloso#2508,3,2,icebox,viper,13,10,25,16,5,1.1,165.0,0.1969999999999999,285.0
+Douglas,NGL Jambaloso#2508,3,2,breeze,viper,13,10,30,13,4,1.3,250.0,0.273,363.0
+Douglas,NGL Jambaloso#2508,3,2,ascent,viper,10,13,26,16,4,1.1,181.0,0.1969999999999999,287.0
+Douglas,NGL Jambaloso#2508,3,2,split,viper,5,13,11,12,6,0.6,135.0,0.122,198.0
+Douglas,NGL Jambaloso#2508,3,2,ascent,viper,13,4,21,7,0,1.2,236.0,0.161,306.0
+Douglas,NGL Jambaloso#2508,3,2,split,viper,13,2,22,6,1,1.5,223.0,0.186,382.0
+Douglas,NGL Jambaloso#2508,3,2,split,viper,7,13,19,17,4,1.0,239.0,0.133,287.0
+Douglas,NGL Jambaloso#2508,3,2,haven,viper,13,8,21,14,5,1.0,178.0,0.188,285.0
+Douglas,NGL Jambaloso#2508,3,2,ascent,viper,14,12,32,17,5,1.2,283.0,0.1669999999999999,346.0
+Douglas,NGL Jambaloso#2508,3,2,breeze,viper,10,13,37,14,2,1.6,288.0,0.265,456.0
+Douglas,NGL Jambaloso#2508,3,2,bind,reyna,14,16,18,22,2,0.6,123.0,0.147,177.0
+Douglas,NGL Jambaloso#2508,3,2,bind,reyna,8,13,15,19,1,0.7,123.0,0.136,207.0
+Douglas,NGL Jambaloso#2508,3,2,split,reyna,13,7,20,10,2,1.0,187.0,0.1369999999999999,291.0
+Douglas,NGL Jambaloso#2508,3,2,split,reyna,14,12,30,17,3,1.2,181.0,0.233,302.0
+Douglas,NGL Jambaloso#2508,3,3,bind,viper,13,10,17,14,10,0.7,163.0,0.133,194.0
+Douglas,NGL Jambaloso#2508,3,3,haven,chamber,13,7,16,14,3,0.8,140.0,0.244,200.0
+Douglas,NGL Jambaloso#2508,3,3,bind,viper,13,5,10,12,7,0.6,125.0,0.206,156.0
+Douglas,NGL Jambaloso#2508,3,3,icebox,viper,11,13,16,19,6,0.7,141.0,0.172,217.0
+Douglas,NGL Jambaloso#2508,3,3,breeze,viper,13,5,17,11,7,0.9,173.0,0.196,235.0
+Douglas,NGL Jambaloso#2508,3,3,bind,viper,13,10,16,16,8,0.7,97.0,0.146,178.0
+Douglas,NGL Jambaloso#2508,3,3,haven,viper,5,13,16,14,3,0.9,160.0,0.211,250.0
+Douglas,NGL Jambaloso#2508,3,3,split,viper,15,17,21,25,6,0.7,145.0,0.081,182.0
+Douglas,NGL Jambaloso#2508,3,3,ascent,viper,13,6,16,11,5,0.8,120.0,0.102,201.0
+Douglas,NGL Jambaloso#2508,3,3,split,viper,13,8,17,11,4,0.8,218.0,0.148,218.0
+Douglas,NGL Jambaloso#2508,3,3,breeze,viper,13,5,16,9,11,0.9,169.0,0.149,259.0
+Douglas,NGL Jambaloso#2508,3,3,icebox,viper,13,10,16,18,4,0.7,133.0,0.102,196.0
+Douglas,NGL Jambaloso#2508,3,3,haven,viper,13,9,13,13,8,0.6,125.0,0.193,171.0
+Douglas,NGL Jambaloso#2508,3,3,icebox,viper,13,3,16,12,5,1.0,186.0,0.293,285.0
+Douglas,NGL Jambaloso#2508,3,3,bind,viper,13,7,17,12,4,0.9,147.0,0.259,217.0
+Douglas,NGL Jambaloso#2508,3,3,icebox,viper,13,7,15,11,8,0.8,117.0,0.2269999999999999,196.0
+Douglas,NGL Jambaloso#2508,3,3,icebox,viper,13,7,13,9,5,0.7,177.0,0.3329999999999999,179.0
+Douglas,NGL Jambaloso#2508,3,3,fracture,viper,8,13,12,15,6,0.6,131.0,0.129,185.0
+Douglas,NGL Jambaloso#2508,3,3,icebox,viper,13,6,26,9,3,1.4,198.0,0.316,315.0
+Douglas,NGL Jambaloso#2508,3,3,bind,viper,13,2,11,3,3,0.7,134.0,0.154,174.0
+Douglas,NGL Jambaloso#2508,3,3,fracture,viper,3,13,11,15,3,0.7,133.0,0.2,207.0
+Douglas,NGL Jambaloso#2508,3,3,split,viper,13,10,11,14,7,0.5,137.0,0.125,147.0
+Douglas,NGL Jambaloso#2508,3,3,fracture,viper,13,0,6,1,1,0.5,73.0,0.118,110.0
+Douglas,NGL Jambaloso#2508,3,3,ascent,reyna,13,7,19,14,6,1.0,217.0,0.286,289.0
+Douglas,NGL Jambaloso#2508,3,3,breeze,viper,13,8,11,15,9,0.5,110.0,0.162,150.0
+Douglas,NGL Jambaloso#2508,3,3,breeze,jett,12,14,13,19,3,0.5,98.0,0.216,151.0
+Douglas,NGL Jambaloso#2508,3,3,icebox,viper,13,7,19,12,5,1.0,189.0,0.18,278.0
+Douglas,NGL Jambaloso#2508,3,3,split,viper,13,15,17,18,9,0.6,181.0,0.2,165.0
+Douglas,NGL Jambaloso#2508,3,3,breeze,viper,10,13,24,16,4,1.0,199.0,0.188,302.0
+Douglas,NGL Jambaloso#2508,3,3,icebox,viper,7,13,14,16,2,0.7,135.0,0.2,204.0
+Douglas,NGL Jambaloso#2508,3,3,ascent,viper,9,13,14,16,10,0.6,148.0,0.233,191.0
+Douglas,NGL Jambaloso#2508,3,3,breeze,viper,8,13,19,18,4,0.9,184.0,0.283,256.0
+Douglas,NGL Jambaloso#2508,3,3,bind,viper,9,13,13,16,3,0.6,123.0,0.143,189.0
+Douglas,NGL Jambaloso#2508,3,3,fracture,chamber,15,15,17,23,5,0.6,109.0,0.16,152.0
+Douglas,NGL Jambaloso#2508,3,3,haven,breach,13,7,21,9,2,1.1,170.0,0.17,284.0
+Douglas,NGL Jambaloso#2508,3,3,icebox,viper,13,4,9,10,3,0.5,82.0,0.273,126.0
+Douglas,NGL Jambaloso#2508,3,3,split,viper,7,13,12,13,4,0.6,156.0,0.1669999999999999,168.0
+Douglas,NGL Jambaloso#2508,3,3,haven,viper,9,13,25,17,4,1.1,171.0,0.242,270.0
+Douglas,NGL Jambaloso#2508,3,3,split,reyna,11,13,15,17,4,0.6,127.0,0.128,191.0
+Douglas,NGL Jambaloso#2508,3,3,icebox,viper,13,6,15,11,2,0.8,128.0,0.238,204.0
+Douglas,NGL Jambaloso#2508,3,3,bind,viper,10,13,20,16,2,0.9,161.0,0.25,245.0
+Douglas,NGL Jambaloso#2508,3,3,bind,viper,13,7,14,9,4,0.7,128.0,0.286,177.0
+Douglas,NGL Jambaloso#2508,3,3,icebox,viper,13,2,12,6,2,0.8,110.0,0.15,184.0
+Douglas,NGL Jambaloso#2508,3,3,ascent,viper,13,9,13,11,5,0.6,99.0,0.188,155.0
+Douglas,NGL Jambaloso#2508,3,3,ascent,viper,9,13,17,17,2,0.8,149.0,0.19,228.0
+Douglas,NGL Jambaloso#2508,3,3,haven,viper,5,13,9,14,1,0.5,91.0,0.154,142.0
+Douglas,NGL Jambaloso#2508,3,3,haven,viper,15,15,26,20,8,0.9,183.0,0.177,271.0
+Douglas,NGL Jambaloso#2508,3,3,fracture,viper,10,13,18,13,1,0.8,133.0,0.2769999999999999,212.0
+Douglas,NGL Jambaloso#2508,3,3,split,viper,13,11,18,16,8,0.8,184.0,0.218,195.0
+Douglas,NGL Jambaloso#2508,3,3,bind,viper,13,7,18,11,2,0.9,168.0,0.3,229.0
+Douglas,NGL Jambaloso#2508,3,3,ascent,viper,13,11,17,16,6,0.7,174.0,0.244,194.0
+Douglas,NGL Jambaloso#2508,3,3,split,viper,14,16,31,20,11,1.0,198.0,0.165,297.0
+Douglas,NGL Jambaloso#2508,3,3,haven,viper,14,12,24,17,11,0.9,176.0,0.3379999999999999,271.0
+Douglas,NGL Jambaloso#2508,3,3,split,viper,2,13,5,11,1,0.3,139.0,0.176,106.0
+Douglas,NGL Jambaloso#2508,3,3,ascent,viper,9,13,14,17,9,0.6,136.0,0.139,202.0
+Douglas,NGL Jambaloso#2508,3,3,haven,viper,13,8,18,12,5,0.9,132.0,0.135,224.0
+Douglas,NGL Jambaloso#2508,3,3,icebox,viper,13,5,12,12,10,0.7,123.0,0.109,197.0
+Douglas,NGL Jambaloso#2508,3,3,split,viper,7,13,16,15,6,0.8,136.0,0.2269999999999999,231.0
+Douglas,NGL Jambaloso#2508,3,3,fracture,viper,6,13,21,14,4,1.1,370.0,0.155,327.0
+Douglas,NGL Jambaloso#2508,3,3,icebox,viper,13,4,10,9,7,0.6,119.0,0.128,170.0
+Douglas,NGL Jambaloso#2508,3,3,split,viper,10,13,11,16,2,0.5,97.0,0.143,149.0
+Douglas,NGL Jambaloso#2508,3,3,ascent,viper,15,13,17,19,4,0.6,102.0,0.293,162.0
+Douglas,NGL Jambaloso#2508,3,3,icebox,viper,9,13,14,17,5,0.6,126.0,0.2789999999999999,201.0
+Douglas,NGL Jambaloso#2508,3,3,ascent,viper,13,4,17,6,4,1.0,146.0,0.233,241.0
+Douglas,NGL Jambaloso#2508,3,3,bind,viper,5,13,14,18,5,0.8,139.0,0.216,234.0
+Douglas,NGL Jambaloso#2508,3,3,fracture,brimstone,13,11,17,18,4,0.7,159.0,0.14,189.0
+Douglas,NGL Jambaloso#2508,3,3,icebox,viper,10,13,19,18,6,0.8,126.0,0.075,219.0
+Douglas,NGL Jambaloso#2508,3,3,split,viper,6,13,17,15,5,0.9,258.0,0.102,258.0
+Douglas,NGL Jambaloso#2508,3,3,bind,viper,9,13,10,17,5,0.5,67.0,0.143,123.0
+Douglas,NGL Jambaloso#2508,4,1,split,viper,15,13,19,19,10,0.7,137.0,0.181,209.0
+Douglas,NGL Jambaloso#2508,4,1,icebox,viper,8,13,13,14,2,0.6,114.0,0.171,171.0
+Douglas,NGL Jambaloso#2508,4,1,icebox,chamber,9,13,13,17,2,0.6,113.0,0.214,152.0
+Douglas,NGL Jambaloso#2508,4,1,haven,breach,13,11,10,19,6,0.4,93.0,0.244,121.0
+Douglas,NGL Jambaloso#2508,4,1,fracture,viper,11,13,14,16,3,0.6,134.0,0.2189999999999999,151.0
+Douglas,NGL Jambaloso#2508,4,1,haven,viper,13,9,10,12,7,0.5,83.0,0.1889999999999999,118.0
+Douglas,NGL Jambaloso#2508,4,3,fracture,viper,13,3,13,6,6,0.8,160.0,0.1639999999999999,228.0
+Douglas,NGL Jambaloso#2508,4,3,bind,viper,13,9,16,13,3,0.7,125.0,0.2,193.0
+Douglas,NGL Jambaloso#2508,4,3,breeze,viper,14,12,20,17,3,0.8,211.0,0.32,187.0
+DCS,DCS#DCSTv,3,2,split,skye,13,6,16,11,4,0.8,134.0,0.103,216.0
+DCS,DCS#DCSTv,3,2,fracture,jett,2,13,6,14,3,0.4,120.0,0.1,165.0
+DCS,DCS#DCSTv,3,2,haven,jett,10,13,27,14,1,1.2,210.0,0.143,325.0
+DCS,DCS#DCSTv,3,2,bind,yoru,6,13,10,17,8,0.5,203.0,0.19,197.0
+DCS,DCS#DCSTv,3,2,fracture,reyna,7,13,8,17,3,0.4,93.0,0.122,139.0
+DCS,DCS#DCSTv,3,2,bind,omen,4,13,10,13,1,0.6,117.0,0.25,173.0
+DCS,DCS#DCSTv,3,2,haven,sage,14,12,23,19,9,0.9,154.0,0.145,246.0
+DCS,DCS#DCSTv,3,2,haven,breach,2,13,11,13,3,0.7,147.0,0.129,231.0
+DCS,DCS#DCSTv,3,2,icebox,astra,7,13,7,15,4,0.4,101.0,0.158,124.0
+DCS,DCS#DCSTv,3,2,ascent,breach,6,13,7,13,2,0.4,72.0,0.136,111.0
+DCS,DCS#DCSTv,3,2,split,jett,7,13,10,19,2,0.5,106.0,0.111,155.0
+DCS,DCS#DCSTv,3,2,bind,breach,8,13,11,18,7,0.5,89.0,0.143,142.0
+DCS,DCS#DCSTv,3,2,icebox,breach,13,7,13,10,10,0.7,136.0,0.14,179.0
+DCS,DCS#DCSTv,3,2,split,breach,13,4,12,6,2,0.7,114.0,0.216,179.0
+DCS,DCS#DCSTv,3,2,breeze,jett,13,5,22,9,8,1.2,291.0,0.221,362.0
+DCS,DCS#DCSTv,3,2,fracture,breach,13,2,10,8,3,0.7,109.0,0.261,172.0
+DCS,DCS#DCSTv,3,2,icebox,breach,13,10,11,14,7,0.5,97.0,0.2289999999999999,139.0
+DCS,DCS#DCSTv,3,2,haven,breach,14,14,33,20,3,1.2,200.0,0.176,308.0
+DCS,DCS#DCSTv,3,2,breeze,sage,10,13,16,14,4,0.7,121.0,0.161,197.0
+DCS,DCS#DCSTv,3,2,breeze,sage,13,10,22,12,6,1.0,239.0,0.143,282.0
+DCS,DCS#DCSTv,3,2,breeze,sova,3,13,11,16,3,0.7,128.0,0.156,202.0
+DCS,DCS#DCSTv,3,2,icebox,sova,13,9,19,11,3,0.9,150.0,0.127,241.0
+DCS,DCS#DCSTv,3,2,icebox,skye,5,13,7,17,6,0.4,103.0,0.158,147.0
+DCS,DCS#DCSTv,3,2,icebox,viper,8,13,24,15,6,1.1,230.0,0.22,307.0
+DCS,DCS#DCSTv,3,2,breeze,astra,13,4,12,9,0,0.7,124.0,0.154,187.0
+DCS,DCS#DCSTv,3,2,haven,cypher,13,10,14,11,2,0.6,118.0,0.2339999999999999,164.0
+DCS,DCS#DCSTv,3,2,icebox,jett,7,13,16,14,3,0.8,135.0,0.089,219.0
+DCS,DCS#DCSTv,3,2,split,kayo,13,9,18,11,11,0.8,148.0,0.23,239.0
+DCS,DCS#DCSTv,3,2,ascent,astra,3,13,8,14,3,0.5,104.0,0.14,153.0
+DCS,DCS#DCSTv,3,2,split,sage,11,13,17,20,10,0.7,153.0,0.183,219.0
+DCS,DCS#DCSTv,3,2,fracture,reyna,5,13,11,16,8,0.6,146.0,0.185,199.0
+DCS,DCS#DCSTv,3,2,bind,yoru,13,0,3,1,2,0.2,30.0,0.083,57.0
+DCS,DCS#DCSTv,3,2,split,skye,14,12,15,18,10,0.6,126.0,0.281,178.0
+DCS,DCS#DCSTv,3,2,bind,astra,13,2,9,4,4,0.6,103.0,0.2,151.0
+DCS,DCS#DCSTv,3,2,ascent,skye,15,13,23,17,11,0.8,155.0,0.181,235.0
+DCS,DCS#DCSTv,3,2,breeze,astra,13,7,14,13,4,0.7,132.0,0.226,188.0
+DCS,DCS#DCSTv,3,2,haven,brimstone,5,13,13,16,6,0.7,167.0,0.204,235.0
+DCS,DCS#DCSTv,3,2,bind,sage,4,13,8,17,3,0.5,113.0,0.3429999999999999,159.0
+DCS,DCS#DCSTv,3,2,icebox,jett,13,6,22,12,4,1.2,259.0,0.2339999999999999,314.0
+DCS,DCS#DCSTv,3,2,breeze,skye,8,13,15,15,7,0.7,130.0,0.156,213.0
+DCS,DCS#DCSTv,3,2,breeze,skye,11,13,15,16,2,0.6,119.0,0.148,179.0
+DCS,DCS#DCSTv,3,2,icebox,viper,13,11,18,14,8,0.8,155.0,0.175,231.0
+DCS,DCS#DCSTv,3,2,breeze,skye,13,8,24,10,7,1.1,281.0,0.179,302.0
+DCS,DCS#DCSTv,3,2,breeze,skye,13,4,13,7,4,0.8,143.0,0.231,205.0
+DCS,DCS#DCSTv,3,2,ascent,skye,13,10,10,13,7,0.4,87.0,0.258,127.0
+DCS,DCS#DCSTv,3,3,ascent,viper,13,9,14,16,1,0.6,124.0,0.143,169.0
+DCS,DCS#DCSTv,3,3,icebox,viper,13,9,12,12,2,0.5,103.0,0.12,152.0
+DCS,DCS#DCSTv,3,3,haven,sage,14,16,13,19,10,0.4,99.0,0.108,141.0
+DCS,DCS#DCSTv,3,3,ascent,sage,13,9,13,14,12,0.6,113.0,0.111,172.0
+DCS,DCS#DCSTv,3,3,ascent,sage,13,9,14,12,6,0.6,106.0,0.115,170.0
+DCS,DCS#DCSTv,3,3,fracture,kayo,13,10,20,11,10,0.9,178.0,0.106,219.0
+DCS,DCS#DCSTv,3,3,breeze,jett,13,3,16,7,1,1.0,165.0,0.222,237.0
+DCS,DCS#DCSTv,3,3,split,astra,9,13,12,17,11,0.5,118.0,0.102,170.0
+DCS,DCS#DCSTv,3,3,breeze,reyna,6,13,15,17,5,0.8,192.0,0.204,262.0
+DCS,DCS#DCSTv,3,3,bind,breach,11,13,21,16,5,0.9,145.0,0.263,230.0
+DCS,DCS#DCSTv,3,3,icebox,breach,13,10,21,11,8,0.9,148.0,0.241,243.0
+DCS,DCS#DCSTv,3,3,haven,reyna,13,9,11,15,2,0.5,94.0,0.257,147.0
+DCS,DCS#DCSTv,3,3,icebox,reyna,11,13,21,21,6,0.9,171.0,0.118,266.0
+DCS,DCS#DCSTv,3,3,icebox,kayo,11,13,15,17,8,0.6,221.0,0.193,186.0
+DCS,DCS#DCSTv,3,3,ascent,reyna,13,8,12,14,4,0.6,98.0,0.233,150.0
+DCS,DCS#DCSTv,3,3,icebox,sage,11,13,16,16,9,0.7,132.0,0.235,187.0
+DCS,DCS#DCSTv,3,3,fracture,viper,13,5,11,8,6,0.6,86.0,0.129,156.0
+DCS,DCS#DCSTv,3,3,haven,kayo,13,4,13,10,11,0.8,127.0,0.211,203.0
+DCS,DCS#DCSTv,3,3,bind,viper,13,11,23,14,5,1.0,159.0,0.135,251.0
+DCS,DCS#DCSTv,3,3,breeze,kayo,13,7,18,13,13,0.9,153.0,0.127,259.0
+DCS,DCS#DCSTv,3,3,icebox,sage,13,6,10,10,17,0.5,108.0,0.074,159.0
+DCS,DCS#DCSTv,3,3,bind,sage,13,8,20,14,8,1.0,173.0,0.286,253.0
+DCS,DCS#DCSTv,3,3,split,sage,7,13,14,16,6,0.7,148.0,0.157,216.0
+DCS,DCS#DCSTv,3,3,split,viper,5,13,12,16,3,0.7,120.0,0.143,195.0
+DCS,DCS#DCSTv,3,3,split,chamber,7,13,15,18,3,0.8,122.0,0.1669999999999999,209.0
+DCS,DCS#DCSTv,3,3,breeze,reyna,14,14,34,19,8,1.2,234.0,0.187,342.0
+DCS,DCS#DCSTv,3,3,fracture,sova,10,13,24,16,3,1.0,171.0,0.157,283.0
+DCS,DCS#DCSTv,3,3,fracture,jett,13,10,20,12,3,0.9,155.0,0.208,234.0
+DCS,DCS#DCSTv,3,3,haven,viper,5,13,9,13,4,0.5,148.0,0.273,155.0
+DCS,DCS#DCSTv,3,3,haven,viper,8,13,10,15,7,0.5,122.0,0.156,165.0
+DCS,DCS#DCSTv,3,3,icebox,viper,13,7,18,8,6,0.9,152.0,0.24,241.0
+DCS,DCS#DCSTv,3,3,bind,chamber,13,4,7,8,7,0.4,109.0,0.27,151.0
+DCS,DCS#DCSTv,3,3,fracture,sova,13,4,10,7,1,0.6,107.0,0.156,148.0
+DCS,DCS#DCSTv,3,3,ascent,jett,14,12,29,18,4,1.1,195.0,0.286,322.0
+DCS,DCS#DCSTv,3,3,fracture,sova,13,3,12,9,6,0.8,131.0,0.136,200.0
+DCS,DCS#DCSTv,3,3,haven,brimstone,13,7,20,10,18,1.0,174.0,0.138,276.0
+DCS,DCS#DCSTv,3,3,bind,chamber,13,8,15,16,2,0.7,185.0,0.316,198.0
+DCS,DCS#DCSTv,3,3,haven,chamber,8,13,10,18,2,0.5,83.0,0.214,117.0
+DCS,DCS#DCSTv,3,3,ascent,chamber,2,13,4,13,1,0.3,83.0,0.158,110.0
+DCS,DCS#DCSTv,3,3,haven,chamber,13,9,17,14,3,0.8,133.0,0.263,221.0
+DCS,DCS#DCSTv,3,3,bind,chamber,13,8,15,11,3,0.7,131.0,0.276,194.0
+DCS,DCS#DCSTv,3,3,fracture,skye,9,13,14,12,1,0.6,117.0,0.17,167.0
+DCS,DCS#DCSTv,3,3,fracture,jett,11,13,16,16,2,0.7,162.0,0.2289999999999999,186.0
+DCS,DCS#DCSTv,3,3,icebox,reyna,13,9,25,10,3,1.1,190.0,0.2269999999999999,314.0
+DCS,DCS#DCSTv,3,3,haven,jett,9,13,15,13,3,0.7,185.0,0.208,205.0
+DCS,DCS#DCSTv,3,3,bind,phoenix,13,9,22,13,4,1.0,165.0,0.206,271.0
+DCS,DCS#DCSTv,3,3,ascent,skye,13,0,11,6,5,0.8,145.0,0.115,217.0
+DCS,DCS#DCSTv,3,3,breeze,skye,5,13,9,13,2,0.5,84.0,0.286,132.0
+DCS,DCS#DCSTv,3,3,bind,omen,6,13,8,15,8,0.4,99.0,0.15,136.0
+DCS,DCS#DCSTv,3,3,haven,jett,13,10,20,14,2,0.9,205.0,0.158,271.0
+DCS,DCS#DCSTv,3,3,ascent,jett,13,8,25,14,4,1.2,215.0,0.213,340.0
+DCS,DCS#DCSTv,3,3,breeze,jett,13,2,8,4,0,0.5,92.0,0.421,127.0
+DCS,DCS#DCSTv,3,3,bind,jett,13,2,19,7,3,1.3,304.0,0.177,358.0
+DCS,DCS#DCSTv,3,3,icebox,skye,8,13,12,16,5,0.6,128.0,0.175,183.0
+DCS,DCS#DCSTv,3,3,bind,jett,4,13,15,14,0,0.9,151.0,0.25,236.0
+DCS,DCS#DCSTv,3,3,icebox,jett,13,8,17,15,10,0.8,174.0,0.183,250.0
+DCS,DCS#DCSTv,3,3,icebox,jett,13,11,19,20,5,0.8,143.0,0.118,240.0
+DCS,DCS#DCSTv,3,3,haven,jett,13,4,18,9,3,1.1,178.0,0.191,303.0
+DCS,DCS#DCSTv,3,3,haven,jett,8,13,4,4,2,0.2,89.0,0.313,59.0
+DCS,DCS#DCSTv,3,3,fracture,skye,13,4,18,9,9,1.1,163.0,0.075,277.0
+DCS,DCS#DCSTv,3,3,bind,jett,13,4,17,7,4,1.0,147.0,0.2319999999999999,257.0
+DCS,DCS#DCSTv,4,1,haven,neon,7,13,18,14,2,0.9,161.0,0.255,254.0
+DCS,DCS#DCSTv,4,1,ascent,jett,13,7,20,10,2,1.0,192.0,0.217,274.0
+DCS,DCS#DCSTv,4,1,haven,skye,7,13,11,14,8,0.6,110.0,0.114,172.0
+DCS,DCS#DCSTv,4,1,haven,sage,3,13,8,13,5,0.5,109.0,0.308,156.0
+DCS,DCS#DCSTv,4,1,fracture,jett,14,12,28,14,2,1.1,178.0,0.183,295.0
+DCS,DCS#DCSTv,4,1,split,jett,13,11,21,16,4,0.9,156.0,0.102,251.0
+DCS,DCS#DCSTv,4,1,bind,reyna,13,11,22,15,3,0.9,171.0,0.173,257.0
+DCS,DCS#DCSTv,4,1,icebox,jett,13,5,14,11,5,0.8,139.0,0.16,224.0
+DCS,DCS#DCSTv,4,1,fracture,jett,13,11,11,18,2,0.5,92.0,0.265,133.0
+DCS,DCS#DCSTv,4,1,split,jett,15,13,17,22,4,0.6,124.0,0.106,186.0
+DCS,DCS#DCSTv,4,1,icebox,chamber,14,14,21,15,6,0.8,197.0,0.111,201.0
+DCS,DCS#DCSTv,4,1,fracture,viper,7,13,16,15,8,0.8,168.0,0.188,228.0
+DCS,DCS#DCSTv,4,1,ascent,chamber,7,13,12,16,1,0.6,112.0,0.258,178.0
+DCS,DCS#DCSTv,4,1,split,astra,8,13,12,15,5,0.6,114.0,0.157,181.0
+DCS,DCS#DCSTv,4,1,fracture,jett,11,13,28,17,4,1.2,180.0,0.17,294.0
+DCS,DCS#DCSTv,4,1,breeze,chamber,10,13,24,14,1,1.0,174.0,0.364,269.0
+DCS,DCS#DCSTv,4,1,ascent,chamber,10,13,12,13,2,0.5,114.0,0.156,161.0
+DCS,DCS#DCSTv,4,1,split,jett,12,14,25,20,2,1.0,144.0,0.282,252.0
+DCS,DCS#DCSTv,4,1,fracture,yoru,7,13,11,17,4,0.6,125.0,0.184,180.0
+DCS,DCS#DCSTv,4,1,ascent,skye,10,13,19,15,4,0.8,196.0,0.2,240.0
+DCS,DCS#DCSTv,4,1,breeze,astra,13,0,9,2,2,0.7,134.0,0.345,192.0
+DCS,DCS#DCSTv,4,1,icebox,astra,14,12,19,21,5,0.7,149.0,0.186,208.0
+DCS,DCS#DCSTv,4,1,icebox,astra,9,13,23,13,6,1.0,196.0,0.192,304.0
+DCS,DCS#DCSTv,4,1,icebox,sova,14,12,15,15,5,0.6,120.0,0.238,155.0
+DCS,DCS#DCSTv,4,1,ascent,raze,2,13,6,15,1,0.4,113.0,0.235,159.0
+DCS,DCS#DCSTv,4,1,ascent,jett,13,7,10,12,6,0.5,99.0,0.122,153.0
+DCS,DCS#DCSTv,4,1,breeze,skye,3,13,16,14,5,1.0,191.0,0.192,303.0
+DCS,DCS#DCSTv,4,1,fracture,kayo,8,13,16,15,10,0.8,193.0,0.203,262.0
+DCS,DCS#DCSTv,4,1,bind,raze,7,13,12,16,1,0.6,118.0,0.14,172.0
+DCS,DCS#DCSTv,4,1,split,astra,12,14,22,17,7,0.8,160.0,0.159,256.0
+DCS,DCS#DCSTv,4,1,ascent,neon,13,8,16,15,6,0.8,127.0,0.088,199.0
+DCS,DCS#DCSTv,4,1,icebox,jett,13,2,19,5,4,1.3,241.0,0.237,365.0
+DCS,DCS#DCSTv,4,1,ascent,raze,16,18,25,22,3,0.7,145.0,0.265,208.0
+DCS,DCS#DCSTv,4,1,haven,astra,13,8,21,11,4,1.0,176.0,0.246,254.0
+DCS,DCS#DCSTv,4,1,fracture,jett,8,13,17,15,5,0.8,163.0,0.185,253.0
+DCS,DCS#DCSTv,4,1,bind,skye,13,11,20,18,14,0.8,141.0,0.239,214.0
+DCS,DCS#DCSTv,4,2,fracture,jett,13,4,21,8,1,1.2,206.0,0.2,315.0
+DCS,DCS#DCSTv,4,2,icebox,reyna,13,7,21,10,2,1.1,160.0,0.127,265.0
+DCS,DCS#DCSTv,4,2,bind,kayo,8,13,17,18,3,0.8,164.0,0.111,248.0
+DCS,DCS#DCSTv,4,2,ascent,kayo,3,13,11,13,0,0.7,142.0,0.146,208.0
+DCS,DCS#DCSTv,4,2,breeze,kayo,2,13,10,14,2,0.7,125.0,0.1669999999999999,215.0
+DCS,DCS#DCSTv,4,2,split,sage,8,13,12,14,9,0.6,209.0,0.083,167.0
+DCS,DCS#DCSTv,4,2,haven,reyna,15,15,18,22,11,0.6,169.0,0.119,196.0
+DCS,DCS#DCSTv,4,2,fracture,jett,0,13,1,5,1,0.1,19.0,0.25,19.0
+DCS,DCS#DCSTv,4,2,fracture,raze,8,13,20,15,1,1.0,165.0,0.121,285.0
+DCS,DCS#DCSTv,4,2,haven,jett,13,4,15,11,6,0.9,223.0,0.139,298.0
+DCS,DCS#DCSTv,4,2,ascent,reyna,13,10,14,14,4,0.6,203.0,0.075,179.0
+DCS,DCS#DCSTv,4,2,breeze,reyna,13,5,22,10,5,1.2,296.0,0.209,334.0
+DCS,DCS#DCSTv,4,2,haven,brimstone,14,12,17,16,12,0.7,183.0,0.1939999999999999,207.0
+DCS,DCS#DCSTv,4,2,breeze,reyna,11,13,21,17,5,0.9,171.0,0.165,268.0
+DCS,DCS#DCSTv,4,2,split,jett,7,13,12,17,2,0.6,104.0,0.276,168.0
+DCS,DCS#DCSTv,4,2,fracture,brimstone,13,15,22,19,11,0.8,148.0,0.2189999999999999,220.0
+DCS,DCS#DCSTv,4,2,breeze,breach,9,13,14,15,2,0.6,139.0,0.289,188.0
+DCS,DCS#DCSTv,4,2,fracture,brimstone,13,9,10,17,10,0.5,135.0,0.175,173.0
+DCS,DCS#DCSTv,4,2,ascent,brimstone,13,1,8,2,1,0.6,84.0,0.111,125.0
+DCS,DCS#DCSTv,4,2,ascent,killjoy,13,9,17,14,6,0.8,157.0,0.203,234.0
+DCS,DCS#DCSTv,4,2,bind,brimstone,6,13,18,14,8,0.9,212.0,0.204,276.0
+DCS,DCS#DCSTv,4,2,haven,brimstone,7,13,21,15,4,1.1,183.0,0.172,304.0
+DCS,DCS#DCSTv,4,2,fracture,killjoy,10,13,10,17,6,0.4,94.0,0.092,128.0
+DCS,DCS#DCSTv,4,2,icebox,sova,3,13,5,15,3,0.3,94.0,0.111,129.0
+DCS,DCS#DCSTv,4,2,bind,reyna,13,10,15,14,2,0.7,126.0,0.113,181.0
+DCS,DCS#DCSTv,4,2,ascent,brimstone,13,5,20,8,5,1.1,189.0,0.157,290.0
+DCS,DCS#DCSTv,4,2,icebox,brimstone,13,6,12,12,6,0.6,183.0,0.145,183.0
+DCS,DCS#DCSTv,4,2,haven,killjoy,9,13,10,17,5,0.5,160.0,0.188,156.0
+DCS,DCS#DCSTv,4,2,fracture,killjoy,13,5,17,9,0,0.9,168.0,0.081,264.0
+DCS,DCS#DCSTv,4,2,breeze,killjoy,13,9,16,15,3,0.7,133.0,0.138,205.0
+DCS,DCS#DCSTv,4,2,bind,skye,8,13,20,16,6,1.0,175.0,0.174,272.0
+DCS,DCS#DCSTv,4,2,icebox,sova,9,13,18,15,5,0.8,158.0,0.389,240.0
+DCS,DCS#DCSTv,4,2,icebox,raze,5,13,12,14,3,0.7,135.0,0.178,190.0
+DCS,DCS#DCSTv,4,3,haven,jett,13,8,18,14,5,0.9,169.0,0.1639999999999999,260.0
+DCS,DCS#DCSTv,4,3,icebox,reyna,14,12,29,20,5,1.1,215.0,0.182,331.0
+DCS,SmurfDcs#BR1,3,1,icebox,reyna,13,11,27,18,4,1.1,197.0,0.102,331.0
+DCS,SmurfDcs#BR1,3,1,haven,brimstone,13,2,12,8,6,0.8,135.0,0.171,225.0
+DCS,SmurfDcs#BR1,3,1,split,omen,8,13,12,16,5,0.6,103.0,0.1939999999999999,192.0
+DCS,SmurfDcs#BR1,3,2,fracture,reyna,13,7,29,12,4,1.5,239.0,0.102,398.0
+DCS,SmurfDcs#BR1,3,2,split,jett,13,8,16,16,5,0.8,132.0,0.275,189.0
+DCS,SmurfDcs#BR1,3,2,icebox,sova,5,13,10,12,3,0.6,120.0,0.122,178.0
+DCS,SmurfDcs#BR1,3,2,haven,jett,13,11,26,12,5,1.1,174.0,0.1119999999999999,297.0
+DCS,SmurfDcs#BR1,3,2,haven,jett,13,5,17,10,5,0.9,190.0,0.268,268.0
+DCS,SmurfDcs#BR1,3,2,breeze,omen,13,11,21,17,6,0.9,166.0,0.2689999999999999,254.0
+DCS,SmurfDcs#BR1,3,3,split,reyna,15,17,32,27,10,1.0,206.0,0.16,319.0
+DCS,SmurfDcs#BR1,3,3,breeze,jett,13,5,21,6,2,1.2,190.0,0.255,288.0
+DCS,SmurfDcs#BR1,3,3,ascent,reyna,11,13,28,19,2,1.2,243.0,0.278,323.0
+DCS,SmurfDcs#BR1,3,3,icebox,reyna,13,3,19,7,1,1.2,180.0,0.094,318.0
+DCS,SmurfDcs#BR1,3,3,icebox,reyna,13,7,17,11,5,0.9,228.0,0.122,272.0
+DCS,SmurfDcs#BR1,3,3,fracture,brimstone,15,15,34,23,17,1.1,221.0,0.226,324.0
+DCS,SmurfDcs#BR1,3,3,breeze,reyna,12,14,32,18,3,1.2,258.0,0.156,350.0
+DCS,SmurfDcs#BR1,3,3,bind,sage,13,7,12,11,6,0.6,127.0,0.2,177.0
+DCS,SmurfDcs#BR1,3,3,icebox,reyna,13,2,10,4,2,0.7,128.0,0.122,196.0
+DCS,SmurfDcs#BR1,3,3,ascent,phoenix,13,9,27,11,5,1.2,233.0,0.254,360.0
+DCS,SmurfDcs#BR1,3,3,ascent,jett,9,13,13,20,6,0.6,135.0,0.182,209.0
+DCS,SmurfDcs#BR1,3,3,haven,phoenix,5,13,7,14,3,0.4,119.0,0.2,159.0
+DCS,SmurfDcs#BR1,3,3,haven,sage,15,15,22,23,7,0.7,126.0,0.159,203.0
+DCS,SmurfDcs#BR1,3,3,fracture,reyna,10,13,17,18,6,0.7,149.0,0.086,241.0
+DCS,SmurfDcs#BR1,3,3,split,reyna,13,11,33,15,7,1.4,289.0,0.144,398.0
+DCS,SmurfDcs#BR1,3,3,ascent,jett,15,13,23,19,4,0.8,206.0,0.19,253.0
+DCS,SmurfDcs#BR1,3,3,icebox,reyna,3,13,12,14,2,0.8,228.0,0.228,261.0
+DCS,SmurfDcs#BR1,3,3,bind,reyna,13,7,13,10,3,0.7,131.0,0.209,183.0
+DCS,SmurfDcs#BR1,3,3,ascent,jett,13,4,12,11,6,0.7,158.0,0.143,226.0
+DCS,SmurfDcs#BR1,3,3,ascent,sage,13,9,13,13,11,0.6,146.0,0.156,196.0
+DCS,SmurfDcs#BR1,3,3,bind,jett,13,11,28,13,3,1.2,217.0,0.25,328.0
+DCS,SmurfDcs#BR1,3,3,icebox,sage,13,8,17,11,9,0.8,174.0,0.129,251.0
+DCS,SmurfDcs#BR1,3,3,ascent,reyna,13,8,26,12,4,1.2,221.0,0.146,359.0
+DCS,SmurfDcs#BR1,4,2,split,jett,13,6,13,8,8,0.7,145.0,0.206,213.0
+DCS,SmurfDcs#BR1,4,2,haven,reyna,2,13,14,15,5,0.9,201.0,0.17,320.0
+DCS,SmurfDcs#BR1,4,2,fracture,jett,12,14,27,15,6,1.0,201.0,0.208,298.0
+DCS,SmurfDcs#BR1,4,2,ascent,jett,13,2,14,4,2,0.9,145.0,0.214,223.0
+DCS,SmurfDcs#BR1,4,2,bind,yoru,8,13,13,19,2,0.6,88.0,0.294,160.0
+DCS,SmurfDcs#BR1,4,2,ascent,jett,3,13,4,15,2,0.3,81.0,0.304,113.0
+DCS,SmurfDcs#BR1,4,2,fracture,sage,0,13,1,5,2,0.1,15.0,0.0,27.0
+DCS,SmurfDcs#BR1,4,2,haven,sage,14,14,10,18,5,0.4,67.0,0.296,104.0
+DCS,SmurfDcs#BR1,4,3,breeze,jett,13,5,11,12,4,0.6,127.0,0.171,191.0
+DCS,SmurfDcs#BR1,4,3,ascent,jett,13,5,21,11,4,1.2,193.0,0.175,315.0
+DCS,SmurfDcs#BR1,4,3,breeze,reyna,13,4,19,9,3,1.1,277.0,0.156,322.0
+DCS,SmurfDcs#BR1,4,3,bind,sage,13,6,10,12,11,0.5,108.0,0.174,164.0
+Taffarel,Conqer#BR1,3,2,ascent,killjoy,7,13,16,18,2,0.8,152.0,0.243,251.0
+Taffarel,Conqer#BR1,3,2,bind,killjoy,13,2,15,5,3,1.0,181.0,0.141,265.0
+Taffarel,Conqer#BR1,3,2,fracture,killjoy,13,4,20,9,5,1.2,201.0,0.165,330.0
+Taffarel,Conqer#BR1,3,2,split,killjoy,13,4,16,9,5,0.9,170.0,0.155,271.0
+Taffarel,Conqer#BR1,3,2,ascent,killjoy,2,13,4,7,3,0.3,69.0,0.087,105.0
+Taffarel,Conqer#BR1,3,2,icebox,killjoy,13,7,12,9,2,0.6,106.0,0.155,177.0
+Taffarel,Conqer#BR1,3,2,split,brimstone,5,13,16,15,8,0.9,152.0,0.182,243.0
+Taffarel,Conqer#BR1,3,2,bind,brimstone,7,13,15,14,6,0.8,162.0,0.161,242.0
+Taffarel,Conqer#BR1,3,2,split,killjoy,10,13,18,16,7,0.8,205.0,0.143,232.0
+Taffarel,Conqer#BR1,3,2,bind,killjoy,11,13,9,17,6,0.4,94.0,0.147,132.0
+Taffarel,Conqer#BR1,3,2,haven,killjoy,13,7,18,11,3,0.9,173.0,0.16,266.0
+Taffarel,Conqer#BR1,3,2,split,killjoy,13,9,22,14,4,1.0,153.0,0.213,252.0
+Taffarel,Conqer#BR1,3,2,icebox,killjoy,7,13,15,17,6,0.8,152.0,0.259,242.0
+Taffarel,Conqer#BR1,3,2,ascent,killjoy,15,13,23,21,6,0.8,176.0,0.154,260.0
+Taffarel,Conqer#BR1,3,2,bind,killjoy,9,13,14,16,3,0.6,112.0,0.18,176.0
+Taffarel,Conqer#BR1,3,2,haven,killjoy,14,12,15,19,5,0.6,122.0,0.141,170.0
+Taffarel,Conqer#BR1,3,2,bind,killjoy,14,12,21,17,9,0.8,167.0,0.165,234.0
+Taffarel,Conqer#BR1,3,2,icebox,killjoy,10,13,17,16,7,0.7,161.0,0.148,229.0
+Taffarel,Conqer#BR1,3,2,ascent,killjoy,7,13,9,16,4,0.5,111.0,0.1639999999999999,150.0
+Taffarel,Conqer#BR1,3,2,fracture,killjoy,14,12,27,16,8,1.0,259.0,0.211,322.0
+Taffarel,Conqer#BR1,3,2,breeze,killjoy,14,12,13,20,10,0.5,136.0,0.095,171.0
+Taffarel,Conqer#BR1,3,2,fracture,killjoy,13,10,11,16,4,0.5,114.0,0.182,149.0
+Taffarel,Conqer#BR1,3,2,icebox,killjoy,13,8,18,13,5,0.9,155.0,0.143,246.0
+Taffarel,Conqer#BR1,3,2,ascent,killjoy,4,13,7,13,5,0.4,134.0,0.047,167.0
+Taffarel,Conqer#BR1,3,2,split,killjoy,7,13,17,19,4,0.9,166.0,0.198,267.0
+Taffarel,Conqer#BR1,3,2,haven,killjoy,13,6,11,12,7,0.6,145.0,0.138,195.0
+Taffarel,Conqer#BR1,3,2,breeze,killjoy,10,13,15,17,8,0.7,167.0,0.099,205.0
+Taffarel,Conqer#BR1,3,2,haven,killjoy,10,13,18,19,5,0.8,144.0,0.139,224.0
+Taffarel,Conqer#BR1,3,2,split,killjoy,8,13,10,17,7,0.5,127.0,0.077,173.0
+Taffarel,Conqer#BR1,3,2,breeze,killjoy,13,10,15,15,3,0.7,128.0,0.08,193.0
+Taffarel,Conqer#BR1,3,2,ascent,killjoy,13,5,13,7,0,0.7,120.0,0.132,180.0
+Taffarel,Conqer#BR1,3,2,fracture,killjoy,13,3,6,4,1,0.4,73.0,0.0969999999999999,101.0
+Taffarel,Conqer#BR1,3,2,breeze,killjoy,13,9,21,12,2,1.0,193.0,0.23,279.0
+Taffarel,Conqer#BR1,3,2,breeze,killjoy,13,6,15,10,5,0.8,174.0,0.133,254.0
+Taffarel,Conqer#BR1,3,2,icebox,killjoy,6,13,6,18,2,0.3,58.0,0.128,89.0
+Taffarel,Conqer#BR1,3,2,split,brimstone,3,13,5,14,3,0.3,76.0,0.211,102.0
+Taffarel,Conqer#BR1,3,2,split,killjoy,9,13,16,18,5,0.7,134.0,0.147,207.0
+Taffarel,Conqer#BR1,3,2,haven,killjoy,13,7,11,12,7,0.6,149.0,0.151,191.0
+Taffarel,Conqer#BR1,3,2,breeze,killjoy,1,13,7,13,1,0.5,90.0,0.171,136.0
+Taffarel,Conqer#BR1,3,2,breeze,killjoy,9,13,16,17,4,0.7,133.0,0.2239999999999999,203.0
+Taffarel,Conqer#BR1,3,2,haven,killjoy,14,12,13,21,4,0.5,123.0,0.089,179.0
+Taffarel,Conqer#BR1,3,2,bind,brimstone,13,6,6,12,10,0.3,102.0,0.179,128.0
+Taffarel,Conqer#BR1,3,2,haven,killjoy,10,13,11,16,3,0.5,106.0,0.1,158.0
+Taffarel,Conqer#BR1,3,2,split,killjoy,12,14,15,18,4,0.6,133.0,0.172,183.0
+Taffarel,Conqer#BR1,3,2,haven,killjoy,13,11,28,15,5,1.2,203.0,0.21,314.0
+Taffarel,Conqer#BR1,3,2,breeze,killjoy,5,13,18,14,4,1.0,197.0,0.173,316.0
+Taffarel,Conqer#BR1,3,2,ascent,killjoy,13,6,15,14,6,0.8,151.0,0.182,216.0
+Taffarel,Conqer#BR1,3,2,icebox,killjoy,1,13,7,13,4,0.5,139.0,0.089,192.0
+Taffarel,Conqer#BR1,3,2,fracture,killjoy,13,3,12,6,5,0.8,162.0,0.132,221.0
+Taffarel,Conqer#BR1,3,2,icebox,killjoy,13,10,13,17,6,0.6,120.0,0.176,183.0
+Taffarel,Conqer#BR1,3,2,fracture,killjoy,11,13,17,17,8,0.7,158.0,0.171,235.0
+Taffarel,Conqer#BR1,3,2,split,killjoy,5,13,9,15,2,0.5,103.0,0.132,147.0
+Taffarel,Conqer#BR1,3,2,haven,killjoy,4,13,12,15,4,0.7,159.0,0.147,215.0
+Taffarel,Conqer#BR1,3,2,ascent,killjoy,9,13,12,19,3,0.5,131.0,0.091,171.0
+Taffarel,Conqer#BR1,3,2,fracture,killjoy,13,9,19,17,4,0.9,175.0,0.235,263.0
+Taffarel,Conqer#BR1,3,2,bind,killjoy,9,13,20,17,4,0.9,222.0,0.243,281.0
+Taffarel,Conqer#BR1,3,2,fracture,killjoy,13,8,17,13,8,0.8,192.0,0.196,259.0
+Taffarel,Conqer#BR1,3,2,ascent,killjoy,5,13,8,14,5,0.4,133.0,0.103,174.0
+Taffarel,Conqer#BR1,3,2,haven,brimstone,13,11,13,19,14,0.5,126.0,0.141,173.0
+Taffarel,Conqer#BR1,3,2,fracture,killjoy,13,7,15,13,7,0.8,168.0,0.218,228.0
+Taffarel,Conqer#BR1,3,2,icebox,killjoy,10,13,11,17,3,0.5,119.0,0.1969999999999999,158.0
+Taffarel,Conqer#BR1,3,2,fracture,killjoy,5,13,9,16,2,0.5,109.0,0.14,161.0
+Taffarel,Conqer#BR1,3,2,icebox,sage,10,13,10,17,9,0.4,111.0,0.17,148.0
+Taffarel,Conqer#BR1,3,2,haven,killjoy,8,13,10,17,6,0.5,114.0,0.1,165.0
+Taffarel,Conqer#BR1,4,1,haven,kayo,13,7,19,11,5,1.0,180.0,0.288,259.0
+Taffarel,Conqer#BR1,4,1,icebox,killjoy,9,13,16,16,4,0.7,142.0,0.2339999999999999,191.0
+Taffarel,Conqer#BR1,4,1,ascent,killjoy,5,13,10,15,3,0.6,81.0,0.2789999999999999,131.0
+Taffarel,Conqer#BR1,4,1,fracture,killjoy,13,10,19,17,4,0.8,143.0,0.113,234.0
+Taffarel,Conqer#BR1,4,1,ascent,killjoy,13,6,16,8,2,0.8,164.0,0.217,217.0
+Taffarel,Conqer#BR1,4,1,icebox,killjoy,13,6,10,9,2,0.5,109.0,0.104,161.0
+Taffarel,Conqer#BR1,4,1,split,killjoy,12,14,17,19,4,0.7,113.0,0.127,183.0
+Taffarel,Conqer#BR1,4,1,haven,killjoy,13,1,15,7,5,1.1,191.0,0.216,294.0
+Taffarel,Conqer#BR1,4,1,bind,killjoy,13,4,17,6,2,1.0,150.0,0.214,248.0
+Taffarel,Conqer#BR1,4,1,haven,killjoy,13,3,15,8,5,0.9,260.0,0.132,290.0
+Taffarel,Conqer#BR1,4,1,ascent,killjoy,12,14,28,18,7,1.1,186.0,0.122,297.0
+Taffarel,Conqer#BR1,4,1,split,kayo,10,13,13,17,8,0.6,144.0,0.1669999999999999,201.0
+Taffarel,Conqer#BR1,4,1,bind,killjoy,13,11,13,14,5,0.5,136.0,0.138,177.0
+Taffarel,Conqer#BR1,4,1,ascent,killjoy,13,7,14,11,6,0.7,146.0,0.149,210.0
+Taffarel,Conqer#BR1,4,1,ascent,killjoy,13,9,12,13,4,0.5,114.0,0.132,167.0
+Taffarel,Conqer#BR1,4,1,icebox,killjoy,10,13,15,19,5,0.7,139.0,0.151,198.0
+Taffarel,Conqer#BR1,4,2,fracture,kayo,13,4,12,12,14,0.7,145.0,0.2289999999999999,226.0
+Taffarel,Conqer#BR1,4,2,icebox,killjoy,13,7,12,13,4,0.6,101.0,0.19,164.0
+Taffarel,Conqer#BR1,4,3,icebox,kayo,3,13,10,14,3,0.6,117.0,0.114,196.0
+Taffarel,Conqer#BR1,4,3,haven,killjoy,9,13,20,18,3,0.9,174.0,0.1009999999999999,262.0
+Taffarel,Conqer#BR1,4,3,split,killjoy,9,13,7,15,3,0.3,90.0,0.0819999999999999,115.0
+Taffarel,Conqer#BR1,4,3,breeze,kayo,13,5,15,12,5,0.8,174.0,0.231,231.0
+Taffarel,Conqer#BR1,4,3,haven,killjoy,13,8,18,9,4,0.9,203.0,0.17,234.0
+Taffarel,Conqer#BR1,4,3,ascent,killjoy,13,5,16,7,1,0.9,188.0,0.147,225.0
+Taffarel,Conqer#BR1,4,3,breeze,kayo,13,4,13,15,3,0.8,158.0,0.262,247.0
+Taffarel,Conqer#BR1,4,3,bind,killjoy,13,6,19,11,4,1.0,207.0,0.198,283.0
+Taffarel,Conqer#BR1,4,3,icebox,killjoy,14,12,21,16,4,0.8,168.0,0.15,244.0
+Taffarel,Conquito#emo24,3,1,haven,killjoy,11,13,19,21,5,0.8,177.0,0.182,254.0
+Taffarel,Conquito#emo24,3,1,split,killjoy,12,14,24,22,4,0.9,198.0,0.207,275.0
+Taffarel,Conquito#emo24,3,1,split,killjoy,13,9,23,13,3,1.0,167.0,0.303,284.0
+Taffarel,Conquito#emo24,3,1,icebox,killjoy,10,13,18,16,4,0.8,155.0,0.263,237.0
+Taffarel,Conquito#emo24,3,1,breeze,killjoy,13,5,18,9,4,1.0,140.0,0.159,249.0
+Taffarel,Conquito#emo24,3,1,haven,killjoy,12,14,27,19,9,1.0,234.0,0.2,339.0
+Taffarel,Conquito#emo24,3,1,icebox,killjoy,13,15,23,22,7,0.8,198.0,0.214,250.0
+Taffarel,Conquito#emo24,3,1,split,killjoy,3,13,9,15,2,0.6,98.0,0.061,171.0
+Taffarel,Conquito#emo24,3,1,breeze,killjoy,13,3,15,7,4,0.9,140.0,0.109,265.0
+Taffarel,Conquito#emo24,3,1,bind,killjoy,13,8,22,11,6,1.0,216.0,0.1939999999999999,306.0
+Taffarel,Conquito#emo24,3,1,split,killjoy,9,13,18,17,5,0.8,171.0,0.221,259.0
+Taffarel,Conquito#emo24,3,1,ascent,killjoy,13,8,21,14,6,1.0,166.0,0.176,271.0
+Taffarel,Conquito#emo24,3,1,bind,killjoy,2,13,4,15,5,0.3,80.0,0.024,121.0
+Taffarel,Conquito#emo24,3,1,breeze,killjoy,11,13,6,16,4,0.3,67.0,0.2,87.0
+Taffarel,Conquito#emo24,3,1,icebox,killjoy,13,15,22,20,11,0.8,157.0,0.148,245.0
+Taffarel,Conquito#emo24,3,1,haven,killjoy,3,13,10,15,2,0.6,106.0,0.149,182.0
+Taffarel,Conquito#emo24,3,1,bind,killjoy,5,13,16,16,2,0.9,165.0,0.157,289.0
+Taffarel,Conquito#emo24,3,1,icebox,killjoy,15,13,39,19,5,1.4,296.0,0.159,422.0
+Taffarel,Conquito#emo24,3,1,split,killjoy,5,13,18,17,4,1.0,205.0,0.26,312.0
+Taffarel,Conquito#emo24,3,1,bind,killjoy,13,10,18,13,8,0.8,164.0,0.157,248.0
+Taffarel,Conquito#emo24,3,1,icebox,killjoy,7,13,23,16,3,1.2,179.0,0.2019999999999999,310.0
+Taffarel,Conquito#emo24,3,1,haven,killjoy,13,10,21,16,9,0.9,143.0,0.176,261.0
+Taffarel,Conquito#emo24,3,1,split,killjoy,5,13,16,16,3,0.9,188.0,0.12,291.0
+Taffarel,Conquito#emo24,3,1,split,killjoy,13,10,15,13,3,0.7,126.0,0.1669999999999999,211.0
+Taffarel,Conquito#emo24,3,1,ascent,killjoy,3,13,15,14,2,0.9,173.0,0.246,284.0
+Taffarel,Conquito#emo24,3,1,bind,killjoy,13,2,19,11,8,1.3,224.0,0.15,393.0
+Taffarel,Conquito#emo24,3,1,breeze,killjoy,13,5,16,10,4,0.9,173.0,0.124,268.0
+Taffarel,Conquito#emo24,3,1,breeze,killjoy,13,9,23,13,4,1.0,190.0,0.111,310.0
+Taffarel,Conquito#emo24,3,1,icebox,killjoy,13,10,16,19,9,0.7,135.0,0.128,217.0
+Taffarel,Conquito#emo24,3,1,bind,killjoy,13,11,25,15,3,1.0,206.0,0.17,292.0
+Taffarel,Conquito#emo24,3,1,ascent,killjoy,6,13,12,16,4,0.6,119.0,0.068,189.0
+Taffarel,Conquito#emo24,3,1,icebox,killjoy,13,8,20,14,9,1.0,254.0,0.17,312.0
+Taffarel,Conquito#emo24,3,1,icebox,killjoy,13,8,23,13,8,1.1,222.0,0.16,340.0
+Taffarel,Conquito#emo24,3,1,haven,killjoy,13,2,14,5,6,0.9,149.0,0.102,269.0
+Taffarel,Conquito#emo24,3,1,breeze,killjoy,13,3,15,7,0,0.9,139.0,0.185,233.0
+Taffarel,Conquito#emo24,3,1,haven,killjoy,9,13,15,19,9,0.7,158.0,0.118,246.0
+Taffarel,Conquito#emo24,3,1,bind,killjoy,13,9,23,11,3,1.0,161.0,0.102,284.0
+Taffarel,Conquito#emo24,3,1,ascent,killjoy,13,2,19,5,5,1.3,208.0,0.172,327.0
+Taffarel,Conquito#emo24,3,1,icebox,killjoy,13,4,17,7,2,1.0,192.0,0.2,299.0
+Taffarel,Conquito#emo24,3,1,haven,killjoy,8,13,13,14,8,0.6,209.0,0.106,231.0
+Taffarel,Conquito#emo24,3,1,haven,killjoy,8,13,17,15,3,0.8,161.0,0.139,230.0
+Taffarel,Conquito#emo24,3,1,breeze,killjoy,8,13,22,14,7,1.0,225.0,0.083,355.0
+Taffarel,Conquito#emo24,3,1,breeze,killjoy,13,8,15,13,6,0.7,139.0,0.176,215.0
+Taffarel,Conquito#emo24,3,1,split,killjoy,13,4,11,10,3,0.6,90.0,0.07,187.0
+Taffarel,Conquito#emo24,3,1,haven,killjoy,12,14,22,19,6,0.8,159.0,0.124,254.0
+Taffarel,Conquito#emo24,3,1,haven,killjoy,13,7,15,11,8,0.8,131.0,0.177,238.0
+Taffarel,Conquito#emo24,3,1,breeze,killjoy,13,2,19,6,2,1.3,177.0,0.145,346.0
+Taffarel,Conquito#emo24,3,1,icebox,killjoy,13,4,17,8,7,1.0,160.0,0.068,287.0
+Taffarel,Conquito#emo24,3,1,icebox,killjoy,9,13,26,15,5,1.2,206.0,0.157,350.0
+Taffarel,Conquito#emo24,3,1,haven,killjoy,13,8,22,14,4,1.0,181.0,0.2,293.0
+Taffarel,Conquito#emo24,3,1,bind,killjoy,13,6,11,7,5,0.6,103.0,0.152,161.0
+Taffarel,Conquito#emo24,3,1,icebox,killjoy,13,0,11,0,3,0.8,142.0,0.075,219.0
+Taffarel,Conquito#emo24,3,1,breeze,killjoy,13,11,21,20,10,0.9,198.0,0.171,290.0
+Taffarel,Conquito#emo24,3,1,icebox,killjoy,15,13,25,19,8,0.9,177.0,0.141,277.0
+Taffarel,Conquito#emo24,3,1,ascent,killjoy,13,5,24,11,3,1.3,220.0,0.171,369.0
+Taffarel,Conquito#emo24,3,1,ascent,killjoy,13,5,19,13,9,1.1,201.0,0.188,334.0
+Taffarel,Conquito#emo24,3,1,icebox,killjoy,11,13,18,19,6,0.8,143.0,0.17,235.0
+Taffarel,Conquito#emo24,3,1,ascent,killjoy,0,13,0,2,1,0.0,8.0,0.25,8.0
+Taffarel,Conquito#emo24,3,1,icebox,killjoy,3,13,1,9,1,0.1,34.0,0.091,42.0
+Taffarel,Conquito#emo24,3,1,bind,brimstone,12,14,18,14,6,0.7,129.0,0.246,196.0
+Taffarel,Conquito#emo24,3,1,haven,killjoy,13,9,17,15,7,0.8,133.0,0.021,245.0
+Taffarel,Conquito#emo24,3,1,bind,brimstone,11,13,19,18,6,0.8,144.0,0.1939999999999999,242.0
+Taffarel,Conquito#emo24,3,1,ascent,brimstone,13,2,23,10,5,1.5,225.0,0.11,418.0
+Taffarel,Conquito#emo24,3,1,split,brimstone,12,14,19,21,4,0.7,139.0,0.2189999999999999,213.0
+Taffarel,Conquito#emo24,3,1,haven,brimstone,13,4,21,6,6,1.2,180.0,0.18,307.0
+Taffarel,Conquito#emo24,3,1,haven,killjoy,13,2,17,9,6,1.1,220.0,0.132,327.0
+Taffarel,Conquito#emo24,3,1,haven,brimstone,8,13,13,19,4,0.6,143.0,0.104,202.0
+Taffarel,Conquito#emo24,3,1,bind,brimstone,13,10,34,12,7,1.5,259.0,0.127,433.0
+Taffarel,Conquito#emo24,3,1,haven,killjoy,14,12,24,16,6,0.9,212.0,0.087,274.0
+Taffarel,Conquito#emo24,3,1,icebox,killjoy,13,8,15,10,3,0.7,133.0,0.087,199.0
+Taffarel,Conquito#emo24,3,1,split,brimstone,9,13,15,19,5,0.7,137.0,0.086,204.0
+Taffarel,Conquito#emo24,3,1,bind,brimstone,13,11,19,16,8,0.8,171.0,0.103,263.0
+Taffarel,Conquito#emo24,3,1,bind,brimstone,9,13,16,17,8,0.7,148.0,0.1969999999999999,220.0
+Taffarel,Conquito#emo24,3,2,bind,killjoy,4,13,7,14,4,0.4,108.0,0.145,145.0
+Taffarel,Conquito#emo24,3,2,haven,killjoy,13,11,17,15,5,0.7,143.0,0.225,198.0
+Taffarel,Conquito#emo24,3,2,icebox,killjoy,9,13,12,16,5,0.5,129.0,0.1009999999999999,178.0
+Taffarel,Conquito#emo24,3,2,haven,killjoy,13,8,12,11,7,0.6,105.0,0.069,179.0
+Taffarel,Conquito#emo24,3,2,split,killjoy,14,12,25,15,6,1.0,174.0,0.134,279.0
+Taffarel,Conquito#emo24,3,2,fracture,killjoy,13,8,26,12,7,1.2,253.0,0.182,365.0
+Taffarel,Conquito#emo24,3,2,split,killjoy,13,9,13,17,3,0.6,144.0,0.1689999999999999,200.0
+Taffarel,Conquito#emo24,3,2,breeze,killjoy,5,13,12,16,3,0.7,145.0,0.145,225.0
+Taffarel,Conquito#emo24,3,2,haven,killjoy,11,13,16,19,7,0.7,144.0,0.12,216.0
+Taffarel,Conquito#emo24,3,2,fracture,killjoy,13,10,9,14,2,0.4,103.0,0.211,124.0
+Taffarel,Conquito#emo24,3,2,fracture,killjoy,11,13,16,17,7,0.7,127.0,0.03,206.0
+Taffarel,Conquito#emo24,3,2,ascent,killjoy,13,8,24,14,2,1.1,193.0,0.179,312.0
+Taffarel,Conquito#emo24,3,2,split,killjoy,13,2,13,6,3,0.9,168.0,0.156,246.0
+Taffarel,Conquito#emo24,3,2,breeze,killjoy,13,5,16,11,2,0.9,180.0,0.26,242.0
+Taffarel,Conquito#emo24,3,2,haven,killjoy,13,5,17,10,4,0.9,177.0,0.1939999999999999,273.0
+Taffarel,Conquito#emo24,3,2,icebox,killjoy,11,13,15,16,3,0.6,135.0,0.165,192.0
+Taffarel,Conquito#emo24,3,2,fracture,killjoy,6,13,6,18,3,0.3,76.0,0.045,108.0
+Taffarel,Conquito#emo24,3,2,breeze,killjoy,13,5,22,13,4,1.2,204.0,0.184,342.0
+Taffarel,Conquito#emo24,3,2,fracture,killjoy,13,2,17,4,7,1.1,192.0,0.134,296.0
+Taffarel,Conquito#emo24,3,2,ascent,killjoy,13,6,15,10,2,0.8,131.0,0.154,191.0
+Taffarel,Conquito#emo24,3,2,bind,killjoy,13,7,16,11,5,0.8,170.0,0.105,252.0
+Taffarel,Conquito#emo24,3,3,haven,killjoy,13,7,16,14,4,0.8,165.0,0.206,237.0
+Taffarel,Conquito#emo24,3,3,icebox,killjoy,13,4,16,8,7,0.9,183.0,0.134,256.0
+Taffarel,Conquito#emo24,3,3,split,killjoy,7,13,12,15,2,0.6,112.0,0.177,184.0
+Joao,NGL Jambalaia#BR01,3,1,split,omen,12,14,10,25,8,0.4,82.0,0.115,124.0
+Joao,NGL Jambalaia#BR01,3,1,icebox,omen,15,13,16,23,5,0.6,119.0,0.255,171.0
+Joao,NGL Jambalaia#BR01,3,1,split,omen,5,13,7,16,4,0.4,82.0,0.182,126.0
+Joao,NGL Jambalaia#BR01,3,1,bind,omen,13,10,14,15,6,0.6,100.0,0.238,160.0
+Joao,NGL Jambalaia#BR01,3,1,bind,omen,14,12,20,24,6,0.8,148.0,0.288,220.0
+Joao,NGL Jambalaia#BR01,3,1,haven,omen,13,10,20,16,2,0.9,145.0,0.286,219.0
+Joao,NGL Jambalaia#BR01,3,1,split,omen,5,13,8,17,8,0.4,99.0,0.162,156.0
+Joao,NGL Jambalaia#BR01,3,1,ascent,sage,3,13,6,12,2,0.4,95.0,0.4,135.0
+Joao,NGL Jambalaia#BR01,3,1,breeze,omen,13,8,11,14,3,0.5,90.0,0.242,153.0
+Joao,NGL Jambalaia#BR01,3,1,breeze,omen,14,12,13,20,5,0.5,107.0,0.163,151.0
+Joao,NGL Jambalaia#BR01,3,1,split,omen,13,4,16,9,5,0.9,164.0,0.2,244.0
+Joao,NGL Jambalaia#BR01,3,1,bind,killjoy,13,5,9,9,1,0.5,170.0,0.143,160.0
+Joao,NGL Jambalaia#BR01,3,1,haven,killjoy,13,1,10,6,2,0.7,95.0,0.237,184.0
+Joao,NGL Jambalaia#BR01,3,1,bind,omen,7,13,9,17,2,0.5,92.0,0.214,127.0
+Joao,NGL Jambalaia#BR01,3,1,haven,omen,12,14,21,20,6,0.8,134.0,0.392,223.0
+Joao,NGL Jambalaia#BR01,3,1,haven,omen,13,7,12,13,5,0.6,118.0,0.148,176.0
+Joao,NGL Jambalaia#BR01,3,1,breeze,omen,13,2,17,7,2,1.1,181.0,0.286,286.0
+Joao,NGL Jambalaia#BR01,3,1,icebox,omen,13,4,13,13,4,0.8,131.0,0.325,211.0
+Joao,NGL Jambalaia#BR01,3,1,haven,omen,13,8,17,15,6,0.8,120.0,0.1639999999999999,233.0
+Joao,NGL Jambalaia#BR01,3,1,breeze,omen,13,7,18,14,6,0.9,176.0,0.255,267.0
+Joao,NGL Jambalaia#BR01,3,1,bind,omen,13,6,15,9,8,0.8,146.0,0.271,221.0
+Joao,NGL Jambalaia#BR01,3,1,icebox,omen,13,0,14,3,2,1.1,164.0,0.195,243.0
+Joao,NGL Jambalaia#BR01,3,1,breeze,omen,13,11,22,14,5,0.9,149.0,0.296,228.0
+Joao,NGL Jambalaia#BR01,3,1,split,omen,7,13,17,15,4,0.9,208.0,0.2269999999999999,236.0
+Joao,NGL Jambalaia#BR01,3,1,bind,omen,13,8,20,16,8,1.0,202.0,0.315,283.0
+Joao,NGL Jambalaia#BR01,3,1,icebox,omen,15,13,18,22,5,0.6,110.0,0.2319999999999999,200.0
+Joao,NGL Jambalaia#BR01,3,1,ascent,omen,13,5,17,8,3,0.9,142.0,0.24,235.0
+Joao,NGL Jambalaia#BR01,3,1,ascent,omen,13,5,15,13,5,0.8,132.0,0.233,228.0
+Joao,NGL Jambalaia#BR01,3,1,split,omen,12,14,18,21,7,0.7,196.0,0.187,212.0
+Joao,NGL Jambalaia#BR01,3,1,breeze,omen,13,9,24,18,4,1.1,202.0,0.23,311.0
+Joao,NGL Jambalaia#BR01,3,1,breeze,omen,7,13,12,18,3,0.6,135.0,0.238,188.0
+Joao,NGL Jambalaia#BR01,3,1,icebox,omen,13,4,13,10,3,0.8,140.0,0.262,213.0
+Joao,NGL Jambalaia#BR01,3,1,bind,omen,6,13,9,15,4,0.5,129.0,0.217,165.0
+Joao,NGL Jambalaia#BR01,3,1,bind,omen,3,13,8,15,9,0.5,113.0,0.186,187.0
+Joao,NGL Jambalaia#BR01,3,1,haven,omen,11,13,21,16,7,0.9,175.0,0.362,266.0
+Joao,NGL Jambalaia#BR01,3,1,ascent,omen,13,9,20,11,7,0.9,139.0,0.183,225.0
+Joao,NGL Jambalaia#BR01,3,1,split,omen,13,10,17,18,4,0.7,142.0,0.263,229.0
+Joao,NGL Jambalaia#BR01,3,1,bind,omen,8,13,15,16,4,0.7,135.0,0.276,193.0
+Joao,NGL Jambalaia#BR01,3,1,split,omen,13,4,11,12,3,0.6,90.0,0.152,161.0
+Joao,NGL Jambalaia#BR01,3,1,ascent,kayo,0,13,2,4,0,0.2,46.0,0.133,62.0
+Joao,NGL Jambalaia#BR01,3,1,bind,omen,7,13,14,15,2,0.7,124.0,0.385,198.0
+Joao,NGL Jambalaia#BR01,3,1,icebox,omen,13,11,16,20,3,0.7,93.0,0.233,188.0
+Joao,NGL Jambalaia#BR01,3,1,icebox,omen,11,13,19,20,4,0.8,133.0,0.2239999999999999,222.0
+Joao,NGL Jambalaia#BR01,3,1,split,omen,14,16,26,21,10,0.9,151.0,0.238,234.0
+Joao,NGL Jambalaia#BR01,3,1,icebox,kayo,3,13,5,16,3,0.3,83.0,0.192,116.0
+Joao,NGL Jambalaia#BR01,3,1,haven,kayo,9,13,12,18,7,0.5,109.0,0.22,159.0
+Joao,NGL Jambalaia#BR01,3,1,ascent,omen,4,13,8,16,1,0.5,83.0,0.226,136.0
+Joao,NGL Jambalaia#BR01,3,1,haven,kayo,13,4,14,7,10,0.8,124.0,0.188,214.0
+Joao,NGL Jambalaia#BR01,3,1,haven,kayo,13,2,11,11,7,0.7,127.0,0.244,221.0
+Joao,NGL Jambalaia#BR01,3,1,split,kayo,8,13,21,16,4,1.0,173.0,0.206,272.0
+Joao,NGL Jambalaia#BR01,3,1,haven,kayo,8,13,8,18,6,0.4,71.0,0.079,103.0
+Joao,NGL Jambalaia#BR01,3,1,split,kayo,13,1,15,5,3,1.1,174.0,0.268,284.0
+Joao,NGL Jambalaia#BR01,3,1,bind,kayo,13,10,17,20,5,0.7,128.0,0.2,208.0
+Joao,NGL Jambalaia#BR01,3,1,haven,kayo,14,12,17,22,11,0.7,124.0,0.186,203.0
+Joao,NGL Jambalaia#BR01,3,1,icebox,kayo,13,8,15,12,4,0.7,135.0,0.196,216.0
+Joao,NGL Jambalaia#BR01,3,1,split,kayo,9,13,16,19,5,0.7,143.0,0.2319999999999999,220.0
+Joao,NGL Jambalaia#BR01,3,1,haven,kayo,10,13,9,19,10,0.4,101.0,0.245,133.0
+Joao,NGL Jambalaia#BR01,3,1,split,kayo,10,13,12,18,6,0.5,107.0,0.16,149.0
+Joao,NGL Jambalaia#BR01,3,1,bind,kayo,9,13,14,16,11,0.6,127.0,0.217,198.0
+Joao,NGL Jambalaia#BR01,3,1,icebox,kayo,9,13,9,20,5,0.4,139.0,0.106,136.0
+Joao,NGL Jambalaia#BR01,3,1,split,kayo,12,14,14,21,10,0.5,104.0,0.1889999999999999,162.0
+Joao,NGL Jambalaia#BR01,3,1,haven,kayo,7,13,6,18,7,0.3,72.0,0.171,118.0
+Joao,NGL Jambalaia#BR01,3,1,ascent,kayo,8,13,7,21,9,0.3,82.0,0.0819999999999999,119.0
+Joao,NGL Jambalaia#BR01,3,1,ascent,omen,10,13,18,16,4,0.8,128.0,0.255,220.0
+Joao,NGL Jambalaia#BR01,3,1,ascent,omen,9,13,9,21,4,0.4,75.0,0.184,112.0
+Joao,NGL Jambalaia#BR01,3,1,breeze,omen,6,13,10,17,6,0.5,113.0,0.163,171.0
+Joao,NGL Jambalaia#BR01,3,1,haven,omen,13,6,15,11,7,0.8,125.0,0.17,214.0
+Joao,NGL Jambalaia#BR01,3,1,bind,omen,13,7,14,12,3,0.7,92.0,0.25,181.0
+Joao,NGL Jambalaia#BR01,3,3,icebox,killjoy,11,13,11,21,5,0.5,97.0,0.174,140.0
+Joao,NGL Jambalaia#BR01,3,3,breeze,killjoy,13,5,10,13,2,0.6,111.0,0.256,157.0
+Joao,NGL Jambalaia#BR01,3,3,bind,killjoy,13,10,13,17,5,0.6,129.0,0.129,181.0
+Joao,NGL Jambalaia#BR01,3,3,haven,omen,5,13,7,14,2,0.4,141.0,0.233,110.0
+Joao,NGL Jambalaia#BR01,3,3,split,omen,15,17,17,30,5,0.5,109.0,0.185,158.0
+Joao,NGL Jambalaia#BR01,3,3,ascent,omen,13,6,11,10,8,0.6,184.0,0.2339999999999999,167.0
+Joao,NGL Jambalaia#BR01,3,3,ascent,jett,13,7,12,14,4,0.6,114.0,0.185,171.0
+Joao,NGL Jambalaia#BR01,3,3,breeze,reyna,13,8,18,13,3,0.9,164.0,0.22,236.0
+Joao,NGL Jambalaia#BR01,3,3,breeze,killjoy,12,14,12,21,10,0.5,124.0,0.222,158.0
+Joao,NGL Jambalaia#BR01,3,3,icebox,killjoy,13,7,22,13,0,1.1,184.0,0.136,275.0
+Joao,NGL Jambalaia#BR01,3,3,split,omen,13,15,12,23,5,0.4,84.0,0.182,131.0
+Joao,NGL Jambalaia#BR01,3,3,breeze,omen,10,13,17,18,4,0.7,148.0,0.341,209.0
+Joao,NGL Jambalaia#BR01,3,3,fracture,omen,15,15,11,24,7,0.4,75.0,0.12,112.0
+Joao,NGL Jambalaia#BR01,3,3,bind,omen,13,7,11,14,1,0.6,103.0,0.216,152.0
+Joao,NGL Jambalaia#BR01,3,3,split,omen,14,16,16,26,3,0.5,105.0,0.255,156.0
+Joao,NGL Jambalaia#BR01,3,3,ascent,omen,9,13,7,17,8,0.3,95.0,0.265,120.0
+Joao,NGL Jambalaia#BR01,3,3,haven,omen,13,8,12,18,2,0.6,122.0,0.107,179.0
+Joao,NGL Jambalaia#BR01,3,3,icebox,omen,13,5,19,13,4,1.1,190.0,0.1689999999999999,297.0
+Joao,NGL Jambalaia#BR01,3,3,split,omen,7,13,13,18,3,0.7,135.0,0.19,193.0
+Joao,NGL Jambalaia#BR01,3,3,split,omen,10,13,18,20,1,0.8,159.0,0.2789999999999999,235.0
+Joao,NGL Jambalaia#BR01,3,3,ascent,killjoy,15,13,14,19,7,0.5,146.0,0.105,160.0
+Joao,NGL Jambalaia#BR01,3,3,icebox,omen,3,13,4,14,1,0.3,42.0,0.111,67.0
+Joao,NGL Jambalaia#BR01,4,1,ascent,killjoy,8,13,8,18,6,0.4,107.0,0.08,141.0
+Joao,NGL Jambalaia#BR01,4,1,bind,killjoy,4,13,8,15,5,0.5,79.0,0.091,126.0
+Joao,NGL Jambalaia#BR01,4,1,breeze,killjoy,13,4,9,5,1,0.5,71.0,0.136,121.0
+Joao,NGL Jambalaia#BR01,4,1,ascent,raze,11,13,11,20,0,0.5,86.0,0.2,141.0
+Joao,NGL Jambalaia#BR01,4,1,split,raze,10,13,19,17,5,0.8,167.0,0.115,253.0
+Joao,NGL Jambalaia#BR01,4,2,haven,reyna,14,14,30,21,6,1.1,217.0,0.2239999999999999,332.0
+Joao,NGL Jambalaia#BR01,4,3,haven,omen,9,13,11,19,6,0.5,91.0,0.1889999999999999,149.0
+Joao,NGL Jambalaia#BR01,4,3,split,killjoy,11,13,13,14,6,0.5,111.0,0.12,170.0
+Joao,NGL Jambalaia#BR01,4,3,bind,raze,11,13,13,18,5,0.5,126.0,0.18,172.0
+Joao,NGL Jambalaia#BR01,4,3,fracture,brimstone,11,13,11,16,7,0.5,99.0,0.104,152.0
+Joao,NGL Jambalaia#BR01,4,3,icebox,fade,13,11,10,20,12,0.4,95.0,0.15,137.0
+Joao,NGL Jambalaia#BR01,4,3,bind,fade,7,13,19,16,9,1.0,173.0,0.178,273.0
+Joao,NGL Jambalaia#BR01,4,3,haven,fade,13,9,14,16,10,0.6,139.0,0.245,211.0
+Joao,NGL Jambalaia#BR01,4,3,fracture,fade,13,1,16,6,6,1.1,171.0,0.353,280.0
+Joao,NGL Jambalaia#BR01,4,3,bind,omen,13,2,15,5,2,1.0,171.0,0.2289999999999999,262.0
+Joao,NGL Jambalaia#BR01,4,3,split,omen,13,6,13,15,8,0.7,137.0,0.261,196.0
+Joao,NGL Jambalaia#BR01,4,3,icebox,neon,2,13,5,13,3,0.3,94.0,0.2689999999999999,129.0
+Hugo,Desculp ser Omen#0001,3,1,split,omen,13,10,25,14,5,1.1,166.0,0.216,279.0
+Hugo,Desculp ser Omen#0001,3,1,ascent,omen,3,13,6,13,4,0.4,65.0,0.125,129.0
+Hugo,Desculp ser Omen#0001,3,1,icebox,omen,13,8,16,12,4,0.8,177.0,0.148,197.0
+Hugo,Desculp ser Omen#0001,3,1,icebox,omen,13,8,14,13,5,0.7,188.0,0.138,207.0
+Hugo,Desculp ser Omen#0001,3,1,ascent,omen,13,2,8,4,7,0.5,91.0,0.114,174.0
+Hugo,Desculp ser Omen#0001,3,1,icebox,omen,13,4,18,6,5,1.1,213.0,0.1689999999999999,267.0
+Hugo,Desculp ser Omen#0001,3,1,haven,omen,8,13,22,15,2,1.0,152.0,0.178,245.0
+Hugo,Desculp ser Omen#0001,3,1,bind,omen,13,5,24,10,3,1.3,203.0,0.316,345.0
+Hugo,Desculp ser Omen#0001,3,1,haven,omen,13,1,11,8,6,0.8,145.0,0.159,217.0
+Hugo,Desculp ser Omen#0001,3,1,bind,killjoy,7,13,21,15,2,1.1,184.0,0.149,309.0
+Hugo,Desculp ser Omen#0001,3,1,split,omen,13,8,26,10,3,1.2,257.0,0.237,337.0
+Hugo,Desculp ser Omen#0001,3,1,bind,omen,3,13,11,14,4,0.7,122.0,0.289,178.0
+Hugo,Desculp ser Omen#0001,3,1,bind,raze,13,1,8,6,4,0.6,95.0,0.063,151.0
+Hugo,Desculp ser Omen#0001,3,1,split,omen,13,11,21,16,7,0.9,156.0,0.226,244.0
+Hugo,Desculp ser Omen#0001,3,1,bind,raze,10,13,20,18,6,0.9,209.0,0.153,290.0
+Hugo,Desculp ser Omen#0001,3,1,ascent,killjoy,13,10,19,15,5,0.8,152.0,0.107,227.0
+Hugo,Desculp ser Omen#0001,3,1,icebox,raze,13,9,24,13,5,1.1,204.0,0.163,324.0
+Hugo,Desculp ser Omen#0001,3,1,bind,raze,13,11,22,15,6,0.9,176.0,0.26,266.0
+Hugo,Desculp ser Omen#0001,3,1,haven,raze,9,13,31,14,3,1.4,263.0,0.085,411.0
+Hugo,Desculp ser Omen#0001,3,1,haven,omen,9,13,25,17,3,1.1,214.0,0.244,337.0
+Hugo,Desculp ser Omen#0001,3,1,ascent,omen,13,10,26,13,12,1.1,204.0,0.186,348.0
+Hugo,Desculp ser Omen#0001,3,2,ascent,omen,13,11,24,13,11,1.0,163.0,0.298,259.0
+Hugo,Desculp ser Omen#0001,3,2,haven,raze,11,13,18,14,9,0.8,181.0,0.157,237.0
+Hugo,Desculp ser Omen#0001,3,2,bind,omen,2,13,5,11,4,0.3,87.0,0.25,117.0
+Hugo,Desculp ser Omen#0001,3,2,breeze,omen,4,13,13,13,1,0.8,156.0,0.18,241.0
+Hugo,Desculp ser Omen#0001,3,2,haven,omen,8,13,21,13,7,1.0,174.0,0.203,267.0
+Hugo,Desculp ser Omen#0001,3,2,bind,omen,12,14,18,17,9,0.7,139.0,0.254,208.0
+Hugo,Desculp ser Omen#0001,3,2,icebox,omen,13,7,23,14,6,1.2,215.0,0.263,318.0
+Hugo,Desculp ser Omen#0001,3,2,ascent,omen,13,7,18,13,6,0.9,170.0,0.228,248.0
+Hugo,Desculp ser Omen#0001,3,2,ascent,omen,11,13,11,16,4,0.5,107.0,0.245,142.0
+Hugo,Desculp ser Omen#0001,3,2,fracture,omen,1,13,5,12,0,0.4,96.0,0.294,123.0
+Hugo,Desculp ser Omen#0001,3,2,fracture,omen,13,8,24,11,3,1.1,247.0,0.469,308.0
+Hugo,Desculp ser Omen#0001,3,2,icebox,omen,13,10,11,14,9,0.5,103.0,0.256,134.0
+Hugo,Desculp ser Omen#0001,3,2,breeze,omen,7,13,14,13,5,0.7,134.0,0.163,184.0
+Hugo,Desculp ser Omen#0001,3,2,icebox,omen,6,13,19,14,2,1.0,199.0,0.357,275.0
+Hugo,Desculp ser Omen#0001,3,2,split,omen,13,9,22,15,6,1.0,184.0,0.208,272.0
+Hugo,Desculp ser Omen#0001,3,2,ascent,omen,13,10,20,14,6,0.9,162.0,0.304,224.0
+Hugo,Desculp ser Omen#0001,3,2,split,omen,13,7,23,9,2,1.2,218.0,0.233,298.0
+Hugo,Desculp ser Omen#0001,3,2,bind,omen,8,13,18,13,6,0.9,150.0,0.3,239.0
+Hugo,Desculp ser Omen#0001,3,2,ascent,omen,7,13,17,15,5,0.9,148.0,0.2769999999999999,225.0
+Hugo,Desculp ser Omen#0001,3,2,breeze,omen,4,13,16,13,0,0.9,169.0,0.25,265.0
+Hugo,Desculp ser Omen#0001,3,2,bind,omen,13,10,23,14,4,1.0,176.0,0.288,271.0
+Hugo,Desculp ser Omen#0001,3,2,split,omen,13,9,22,12,5,1.0,159.0,0.308,246.0
+Hugo,Desculp ser Omen#0001,3,2,breeze,omen,13,5,14,8,3,0.8,100.0,0.147,159.0
+Hugo,Desculp ser Omen#0001,3,2,split,omen,13,7,21,11,4,1.1,191.0,0.1969999999999999,261.0
+Hugo,Desculp ser Omen#0001,3,2,ascent,omen,5,13,20,14,9,1.1,218.0,0.276,312.0
+Hugo,Desculp ser Omen#0001,3,3,fracture,omen,13,10,22,13,5,1.0,174.0,0.2239999999999999,233.0
+Hugo,Desculp ser Omen#0001,3,3,ascent,omen,0,13,6,7,3,0.5,109.0,0.304,155.0
+Hugo,Desculp ser Omen#0001,3,3,ascent,omen,13,3,13,6,6,0.8,131.0,0.1669999999999999,187.0
+Hugo,Desculp ser Omen#0001,3,3,icebox,omen,13,8,9,14,3,0.4,72.0,0.121,106.0
+Hugo,Desculp ser Omen#0001,3,3,breeze,omen,13,4,17,7,4,1.0,178.0,0.3,259.0
+Hugo,Desculp ser Omen#0001,3,3,bind,omen,13,4,16,7,6,0.9,132.0,0.25,216.0
+Hugo,Desculp ser Omen#0001,3,3,bind,omen,13,6,25,10,4,1.3,234.0,0.1689999999999999,354.0
+Hugo,Desculp ser Omen#0001,3,3,split,omen,9,13,13,19,11,0.6,118.0,0.113,174.0
+Hugo,Desculp ser Omen#0001,3,3,breeze,omen,13,8,17,13,6,0.8,173.0,0.222,247.0
+Hugo,Desculp ser Omen#0001,3,3,breeze,omen,12,14,24,19,6,0.9,155.0,0.236,241.0
+Hugo,Desculp ser Omen#0001,3,3,icebox,omen,13,7,18,9,6,0.9,168.0,0.176,244.0
+Hugo,Desculp ser Omen#0001,3,3,ascent,omen,3,13,15,12,2,0.9,181.0,0.255,272.0
+Hugo,Desculp ser Omen#0001,3,3,icebox,omen,13,11,33,14,7,1.4,244.0,0.22,382.0
+Hugo,Desculp ser Omen#0001,3,3,breeze,omen,13,13,29,11,4,1.1,303.0,0.253,277.0
+Hugo,Desculp ser Omen#0001,3,3,ascent,omen,7,13,10,14,2,0.5,109.0,0.216,157.0
+Hugo,Desculp ser Omen#0001,3,3,haven,omen,13,10,16,15,6,0.7,182.0,0.226,195.0
+Hugo,Desculp ser Omen#0001,3,3,haven,omen,8,13,21,13,6,1.0,173.0,0.304,264.0
+Hugo,Desculp ser Omen#0001,3,3,fracture,omen,13,4,13,7,5,0.8,200.0,0.13,191.0
+Hugo,Desculp ser Omen#0001,3,3,bind,omen,13,4,16,5,6,0.9,174.0,0.183,264.0
+Hugo,Desculp ser Omen#0001,4,1,ascent,omen,13,7,16,10,6,0.8,132.0,0.2289999999999999,195.0
+Hugo,Desculp ser Omen#0001,4,1,ascent,raze,13,9,14,10,13,0.6,164.0,0.114,214.0
+Hugo,Desculp ser Omen#0001,4,2,bind,omen,13,7,12,12,11,0.6,127.0,0.115,190.0
+Hugo,Desculp ser Omen#0001,4,2,haven,omen,13,9,23,10,3,1.0,171.0,0.293,267.0
+Hugo,Desculp ser Omen#0001,4,2,icebox,omen,13,6,18,6,7,0.9,187.0,0.271,249.0
+Hugo,Desculp ser Omen#0001,4,2,breeze,omen,8,13,14,16,9,0.7,182.0,0.24,205.0
+Hugo,Desculp ser Omen#0001,4,2,icebox,omen,13,4,11,8,5,0.6,117.0,0.171,180.0
+Hugo,Desculp ser Omen#0001,4,2,split,omen,13,10,20,16,3,0.9,153.0,0.296,224.0
+Hugo,Desculp ser Omen#0001,4,2,fracture,omen,7,13,20,15,8,1.0,194.0,0.178,291.0
+Hugo,Desculp ser Omen#0001,4,2,fracture,omen,13,13,21,15,7,0.8,201.0,0.188,215.0
+Hugo,Desculp ser Omen#0001,4,2,split,omen,13,10,20,11,3,0.9,120.0,0.341,204.0
+Hugo,Desculp ser Omen#0001,4,2,haven,omen,15,13,24,17,12,0.9,162.0,0.132,244.0
+Hugo,Desculp ser Omen#0001,4,2,icebox,omen,14,14,18,19,7,0.6,169.0,0.1689999999999999,196.0
+Hugo,Desculp ser Omen#0001,4,2,icebox,omen,13,7,16,11,4,0.8,152.0,0.111,223.0
+Hugo,Desculp ser Omen#0001,4,2,haven,omen,10,13,12,18,5,0.5,105.0,0.118,148.0
+Hugo,Desculp ser Omen#0001,4,2,ascent,omen,4,13,9,13,10,0.5,143.0,0.128,193.0
+Hugo,Desculp ser Omen#0001,4,2,bind,omen,13,5,17,11,7,0.9,156.0,0.2289999999999999,235.0
+Hugo,Desculp ser Omen#0001,4,2,fracture,omen,13,7,24,9,3,1.2,181.0,0.176,291.0
+Hugo,Desculp ser Omen#0001,4,2,breeze,omen,13,8,19,5,4,0.9,189.0,0.175,239.0
+Hugo,Desculp ser Omen#0001,4,2,split,raze,13,10,25,11,6,1.1,199.0,0.132,311.0
+Hugo,Desculp ser Omen#0001,4,2,icebox,omen,7,13,14,16,2,0.7,129.0,0.3429999999999999,197.0
+Hugo,Desculp ser Omen#0001,4,2,haven,omen,14,16,22,19,16,0.7,141.0,0.203,208.0
+Hugo,Desculp ser Omen#0001,4,2,breeze,omen,13,11,19,13,2,0.8,165.0,0.261,222.0
+Hugo,Desculp ser Omen#0001,4,2,ascent,raze,1,13,6,13,3,0.4,119.0,0.176,144.0
+Hugo,Desculp ser Omen#0001,4,2,fracture,omen,13,1,5,1,1,0.4,63.0,0.158,103.0
+Hugo,Desculp ser Omen#0001,4,2,bind,raze,13,9,17,12,7,0.8,162.0,0.128,230.0
+Hugo,Desculp ser Omen#0001,4,2,icebox,omen,13,4,11,6,4,0.6,128.0,0.25,171.0
+Hugo,Desculp ser Omen#0001,4,2,split,raze,10,13,23,17,5,1.0,190.0,0.193,293.0
+Hugo,Desculp ser Omen#0001,4,2,haven,omen,5,13,12,13,6,0.7,155.0,0.405,214.0
+Hugo,Desculp ser Omen#0001,4,2,ascent,raze,8,13,18,15,4,0.9,177.0,0.1369999999999999,254.0
+Hugo,Desculp ser Omen#0001,4,2,breeze,omen,4,13,12,16,1,0.7,128.0,0.281,194.0
+Hugo,Desculp ser Omen#0001,4,2,split,omen,5,13,14,10,5,0.8,206.0,0.364,222.0
+Hugo,Desculp ser Omen#0001,4,2,bind,omen,10,13,19,18,8,0.8,160.0,0.1969999999999999,251.0
+Hugo,Desculp ser Omen#0001,4,2,breeze,omen,9,13,22,15,3,1.0,199.0,0.222,279.0
+Hugo,Desculp ser Omen#0001,4,3,ascent,omen,9,13,14,17,4,0.6,141.0,0.289,199.0
+Hugo,Desculp ser Omen#0001,4,3,icebox,fade,8,13,22,14,6,1.0,189.0,0.469,259.0
+Hugo,Desculp ser Omen#0001,4,3,breeze,reyna,13,5,15,10,1,0.8,120.0,0.344,205.0
